@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"fd0b168725382ee9","x":505,"y":120,"width":250,"height":60,"type":"file","file":"6. - Main Notes - ZettelCast/What's Badhak in keeping doing the right things.md"},
+		{"id":"2adf5aa91a948123","type":"text","text":"Pramad me car se mountain pe gaya \n\nPramad me hi waha 0e baitha raha mai \n\nAur then iske Baad pata nahi kya hua, present me rhe hinahi paa rjaa tha mai, \nFelt like nafis sikud gayi thi ","x":-158,"y":-131,"width":338,"height":291},
+		{"id":"c88b2afb1cf9e247","type":"text","text":"Pramad me hote hue time bitana \n\nBe conscious intense and relaxed rather ","x":-567,"y":-28,"width":250,"height":60},
+		{"id":"fa3e96de545b3ba5","type":"text","text":"Muze pramad me kisne phincahaya ","x":-274,"y":-403,"width":250,"height":60},
+		{"id":"8cfe53fd8318a086","type":"text","text":"Unexpectation ne \nGe  mai subhe, thoda low feel karr rhaa tha, papa ne muze ume bhi slave ki tarha treat kiya, mere raazi hane ki chinta na karke Kaam ko laga diya muze, unnecessarily muskil way me karne ke liye \n(hua kya tha : naha ke aya hi tha ki bola exit gate pe Aa jana mutton lana hai, ume mai ye khelne laga ki abhi challo ya niche hi Aa jao) ","x":59,"y":-609,"width":250,"height":60},
+		{"id":"6614fdff3401b771","type":"file","file":"6. - Main Notes - ZettelCast/What's Badhak in present moment.md","x":505,"y":-281,"width":315,"height":161}
+	],
+	"edges":[
+		{"id":"482a40cdb3931517","fromNode":"2adf5aa91a948123","fromSide":"left","toNode":"c88b2afb1cf9e247","toSide":"right"},
+		{"id":"47391bee46a54b7c","fromNode":"c88b2afb1cf9e247","fromSide":"top","toNode":"fa3e96de545b3ba5","toSide":"bottom"},
+		{"id":"b29537832e9413d4","fromNode":"fa3e96de545b3ba5","fromSide":"right","toNode":"8cfe53fd8318a086","toSide":"left"}
+	]
+}

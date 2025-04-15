@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"f65ff6dcb1fdff3d","type":"text","text":"Jivan ka muula adhar hai iccha ","x":-32,"y":-41,"width":250,"height":60},
+		{"id":"cb88305b5e105184","type":"text","text":"Ye tan paida hoti hai jab, tu hare andar ki aasiimit cheez (hyani ki tum) kisi siimit cheez se chipakli hai )","x":-192,"y":85,"width":252,"height":155},
+		{"id":"0ea1b9f68ca7e3ed","type":"text","text":"Isha kirya \nIsha = srishti ka strot \nKriya = internal karma ","x":562,"y":120,"width":258,"height":105},
+		{"id":"8339d02f07014f93","type":"text","text":"This seperate you from the body and mind ()\n\nAnd one day while doing it \nYou will find ki man, body ek jagha hai aur mai ek jagha , \n**Ye sare dukhi ka annt hai** ","x":478,"y":305,"width":302,"height":295},
+		{"id":"8a6f5a4cf1e8d9c0","type":"text","text":"Your awarness() should be above your breath \nMe not the body \nMe not even the Mind ","x":880,"y":260,"width":280,"height":148},
+		{"id":"010d94a8fdd7c1d9","type":"text","text":"Whats the biggest adventure \nBungy ksi diving? No \n\nIt's breaking your internal limitation \nHan ye bhot sari hi sakti hai \nBut ek din ye jarur khatam ho jaengi ","x":1720,"y":767,"width":284,"height":249},
+		{"id":"74c1ba5b0ea389cd","type":"text","text":"Sare vichar bhi iccha hai hai \nIccha , kisto me aasiimit tak pohincne ki ","x":-440,"y":360,"width":277,"height":113},
+		{"id":"0593c41813859597","type":"text","text":"This Can birng about a day jab \nTum ye clearly notice kar paoge ki tumhara man body ek jagha hoga aur tum ek jagha \n**Ye sare dukho ka annt hai** ","x":478,"y":660,"width":262,"height":240,"color":"#0000ff"},
+		{"id":"b34f7d6b472e3845","type":"text","text":"What fruu is asking for \n- bhagidari \n- focus \n- aur openness and samarpan to tbe guru\n- and \n- dono ki dono ankhe present moment pe ","x":640,"y":-360,"width":320,"height":231},
+		{"id":"075a09a4c1173d1e","type":"text","text":"Jitna clearly bodh hua hai ","x":452,"y":1200,"width":250,"height":60},
+		{"id":"69c0e8d7124f32d5","type":"text","text":"Tum respond tabhi karte hi jab wo tumhari responsibility hoti hai \n\nResponsibility Hona means \nApke respond karne ki khaata aasiimit hai, but apke Kaam karne ki simit hai ","x":482,"y":1474,"width":298,"height":246},
+		{"id":"94fbdc8af49efaf8","type":"text","text":"You haet be intense yet relaxed ","x":160,"y":1474,"width":250,"height":60},
+		{"id":"57299109b236ecad","type":"text","text":"Aisa kuch nahi hai jo mai nahi hu ","x":1591,"y":1599,"width":250,"height":60},
+		{"id":"1362cec9e932d1b2","type":"text","text":"Meri jimmedari aasiimit hai \n","x":1654,"y":1757,"width":250,"height":60},
+		{"id":"683ab96f3887fc9d","type":"text","text":"Kyuki mai aasiimit hu ","x":1598,"y":1961,"width":250,"height":60},
+		{"id":"5da4cef95c5d4e1e","type":"text","text":"Dukhon ka karan mera siimao me fasna hai, kyuki mai aasiimit hu ","x":1552,"y":2178,"width":280,"height":82},
+		{"id":"a55f65204fa97a37","type":"text","text":"For this aisa kuch bhi nahi hai jo mai nahi hu ","x":2202,"y":2491,"width":250,"height":60},
+		{"id":"046396095b051dd6","type":"text","text":"Meri meri jimmedari to aasiimit hai ","x":2295,"y":2660,"width":245,"height":80},
+		{"id":"36ecd94bc8130bb8","type":"text","text":"Meri jimmedari dari to aasiimit hai ki \nBut kyuki Iss sarir ke Kaam karne ki bhai tik hai \n\nSo, Iss sist ki all possibilities, jimmedariya to meri hai hi hai, ","x":2445,"y":3015,"width":275,"height":225},
+		{"id":"6b3e020f57b28e00","type":"text","text":"Muze aasiimit rehene ke liye, meri respons-ability ko aasiimit raskna hoga ","x":1832,"y":2340,"width":248,"height":120},
+		{"id":"73cf191aa2b0d79d","type":"text","text":"But what about my kaam karne ki ksamata ","x":2295,"y":2820,"width":250,"height":60},
+		{"id":"cb18ebe30a2a4277","type":"text","text":"Aap tabhi pura step lete hai jab aap outcome se u effected rehte hai \nCahe ji marji ho aap aise hi sukhad rahenge ","x":3516,"y":2280,"width":304,"height":155},
+		{"id":"031e377d79b578d3","type":"text","text":"You are not bound by size to feel yourself \nEven after the passage of time you will still be same you \nI will still be the same I \n\nI in truest sense, neither bound by space neither by time \nSo that's why I am aasiimit ","x":2920,"y":2280,"width":346,"height":280},
+		{"id":"4718906a4ca0678a","type":"text","text":"Aur ye tabhi hog aja aap usss sarir aur mann se duuri bana ke rakh paenge \nBy truly realizing I am not the body I am not even the Mind ","x":3266,"y":1960,"width":294,"height":180},
+		{"id":"43061fdc421e619f","type":"text","text":"Jammedari kyu le \nTaki respond-abiliry badhe\n\nAur tum Kaam razi hoke karo.. \n","x":2190,"y":3319,"width":255,"height":181},
+		{"id":"ab97aa7bee4fbb41","x":1703,"y":3375,"width":250,"height":60,"type":"text","text":"Sab kuch meri wajh@ se hi jo taha hain, \nSabbbbb kich \nSab kuch meri responsibility hai \nI have to be comscionninnall things "}
+	],
+	"edges":[
+		{"id":"7b7933649aa22229","fromNode":"f65ff6dcb1fdff3d","fromSide":"bottom","toNode":"cb88305b5e105184","toSide":"top"},
+		{"id":"032463f41c9f9aa0","fromNode":"74c1ba5b0ea389cd","fromSide":"top","toNode":"cb88305b5e105184","toSide":"bottom"},
+		{"id":"32ab6f8b4f8ff75e","fromNode":"0ea1b9f68ca7e3ed","fromSide":"bottom","toNode":"8339d02f07014f93","toSide":"top"},
+		{"id":"ed74c09d7a3ddfb9","fromNode":"0ea1b9f68ca7e3ed","fromSide":"left","toNode":"8a6f5a4cf1e8d9c0","toSide":"left"},
+		{"id":"4248aedafbd08a6b","fromNode":"0ea1b9f68ca7e3ed","fromSide":"right","toNode":"0593c41813859597","toSide":"left"},
+		{"id":"a10ddc4716c60b43","fromNode":"a55f65204fa97a37","fromSide":"bottom","toNode":"046396095b051dd6","toSide":"top"},
+		{"id":"b3886b474a820619","fromNode":"046396095b051dd6","fromSide":"left","toNode":"73cf191aa2b0d79d","toSide":"left"},
+		{"id":"77213250e923244e","fromNode":"031e377d79b578d3","fromSide":"right","toNode":"4718906a4ca0678a","toSide":"left"},
+		{"id":"fed80f182d14c7ba","fromNode":"4718906a4ca0678a","fromSide":"bottom","toNode":"cb18ebe30a2a4277","toSide":"left"}
+	]
+}

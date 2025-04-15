@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"c34f0b5875dce2c8","x":-460,"y":-120,"width":250,"height":60,"type":"text","text":"Radha naam japs "},
+		{"id":"a17e352c86324add","x":-121,"y":-252,"width":250,"height":60,"type":"text","text":"Guru's knowledge "},
+		{"id":"b49650b860290d94","x":-80,"y":120,"width":250,"height":60,"type":"text","text":"my Discretionary interpretations "},
+		{"id":"7729075bd6f8648f","x":280,"y":220,"width":250,"height":60,"type":"text","text":"ofo maybe how it can be useful "},
+		{"id":"6d85498f6934ee37","x":306,"y":59,"width":274,"height":91,"type":"text","text":"how it is working , \nWHAT THE USES OF and how to ETC "}
+	],
+	"edges":[
+		{"id":"6854b3f0cf0827c6","fromNode":"c34f0b5875dce2c8","fromSide":"right","toNode":"a17e352c86324add","toSide":"left"},
+		{"id":"cc1f6c5df2b6ff6b","fromNode":"c34f0b5875dce2c8","fromSide":"right","toNode":"b49650b860290d94","toSide":"left"},
+		{"id":"2a99f3d615ccda5b","fromNode":"b49650b860290d94","fromSide":"right","toNode":"7729075bd6f8648f","toSide":"left"},
+		{"id":"1c6be58bed44975c","fromNode":"b49650b860290d94","fromSide":"right","toNode":"6d85498f6934ee37","toSide":"left"}
+	]
+}

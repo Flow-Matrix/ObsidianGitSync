@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"905f38bbc030f309","type":"text","text":"","x":92,"y":-555,"width":250,"height":60},
+		{"id":"d583030527399f6f","type":"text","text":"Doing the right things ","x":-142,"y":-125,"width":250,"height":60},
+		{"id":"a97f27fdb951d09e","type":"text","text":"Utilizing the time to it's best \n\nAt every moment your eye should be on where you are heading \n","x":-106,"y":176,"width":266,"height":164},
+		{"id":"349ed94a5d6e01f0","type":"file","file":"6. - Main Notes - ZettelCast/To know at every moment where you are heading.md","x":240,"y":146,"width":480,"height":654},
+		{"id":"7e8fded3a6c26222","type":"text","text":"Heading in a better direction ","x":-106,"y":413,"width":250,"height":60},
+		{"id":"8f148417413510bd","type":"text","text":"Not doing the bad things ","x":160,"y":-125,"width":250,"height":60},
+		{"id":"ecf594766c6124e4","type":"text","text":"When do you do bad things ","x":160,"y":-280,"width":250,"height":60},
+		{"id":"90e4b97d9d5734cb","type":"text","text":"When this jeev 'feels like' ki iske sath pratikulta ho rahi hai \n\nJab usne jo socha tha wo nahi ho raha \nThen he tries to balance that usi g bad means \n\nJaisa socha tha waisa nahi hi raha ","x":354,"y":-640,"width":266,"height":300},
+		{"id":"c90e571fc4bf419f","x":620,"y":-495,"width":300,"height":215,"type":"text","text":"Best tho gs to do in this \nWhenever a blockage arises \n\n- lookback and see, that how far(with comparison to, if you haven't started in first place) you have come already "}
+	],
+	"edges":[
+		{"id":"0f8cf0fb22df5b05","fromNode":"a97f27fdb951d09e","fromSide":"right","toNode":"349ed94a5d6e01f0","toSide":"left"}
+	]
+}

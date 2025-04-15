@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"9a8d92e2df671dca","x":-82,"y":146,"width":250,"height":60,"type":"text","text":"Dropping the bad things "},
+		{"id":"ab4d1bd6325bcbf5","x":340,"y":-500,"width":339,"height":275,"type":"text","text":"Only if \nAre yu Happy in the present moment or not, \nIf yiu are happy then why do yiu need to do substandard thing right \n\n1. Plus, anyway this thing is a betrayer, Mai abb ye kabhi bhi nahi karunga, \n2. This shit always betrays only "},
+		{"id":"7e927caae099690d","x":-82,"y":400,"width":250,"height":60,"type":"text","text":"Isha Kriya "}
+	],
+	"edges":[
+		{"id":"d2168a34200bb432","fromNode":"9a8d92e2df671dca","fromSide":"right","toNode":"ab4d1bd6325bcbf5","toSide":"left"}
+	]
+}

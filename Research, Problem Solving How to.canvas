@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"c4161418620cf2ae","x":2072,"y":226,"width":250,"height":60,"type":"text","text":""},
+		{"id":"367c74c2342425ca","type":"text","text":"Problem =\n* Needing to go to A when you are at B ","x":-74,"y":-203,"width":234,"height":143},
+		{"id":"dddf21047c1c0fcf","type":"text","text":"What are the unique Trait of Consciousness \nIE. \nWhats the thing tgat we have  a benifit over animals ","x":-24,"y":40,"width":260,"height":186},
+		{"id":"1b8e74e9bd9f4bc3","type":"text","text":"Unlike animals ","x":-324,"y":324,"width":250,"height":60},
+		{"id":"a3301ed64dd6e95e","type":"text","text":"Unlike animals, we can trace back to find another path.. Using our memory and tracking ","x":-324,"y":384,"width":285,"height":131},
+		{"id":"e64c072254d1d84f","type":"text","text":"Template for PS 01 \n(wrt , the need to go from A to B)","x":899,"y":-10,"width":401,"height":110},
+		{"id":"9fdedc7326241e7e","type":"text","text":"","x":1222,"y":402,"width":250,"height":60},
+		{"id":"0d3f8ba28b47a6fc","type":"text","text":"","x":1221,"y":462,"width":250,"height":60},
+		{"id":"8562eecb454902b7","type":"text","text":"","x":1221,"y":522,"width":250,"height":60},
+		{"id":"f70653fd20d462fc","type":"text","text":"","x":1222,"y":582,"width":250,"height":60},
+		{"id":"d8718ecae684b30c","type":"text","text":"","x":820,"y":462,"width":250,"height":60},
+		{"id":"c4144f4d94639388","type":"text","text":"","x":820,"y":522,"width":250,"height":60},
+		{"id":"0668b7e61048e4e1","type":"text","text":"","x":821,"y":402,"width":250,"height":60},
+		{"id":"13be6f3e18963a6c","type":"text","text":"","x":821,"y":582,"width":250,"height":60},
+		{"id":"515018a99c973400","type":"text","text":"resolution for that ","x":1221,"y":220,"width":250,"height":60},
+		{"id":"a316a5c792e9b480","type":"text","text":"old patterns , traits , detectables , ","x":819,"y":220,"width":250,"height":60},
+		{"id":"5e56d9f4a4581ee3","type":"text","text":"the 100% of the decided things where you want to head to ","x":1700,"y":333,"width":306,"height":437},
+		{"id":"e6ff804eebc87457","type":"text","text":"new me ","x":1700,"y":220,"width":250,"height":60},
+		{"id":"84609b2974ffb37e","type":"text","text":"","x":2070,"y":404,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"dd1d62d791a7cfee","fromNode":"dddf21047c1c0fcf","fromSide":"bottom","toNode":"1b8e74e9bd9f4bc3","toSide":"top"}
+	]
+}

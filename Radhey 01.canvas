@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"0800710a01022302","type":"text","text":"Bhagwan doori pakad lete hai jo sharnagat ho jate hai unki ","x":-24,"y":-146,"width":244,"height":106},
+		{"id":"0db90917e284a9ef","type":"text","text":"Ab sharnagat kaise hua jaye? ","x":-273,"y":52,"width":250,"height":60},
+		{"id":"324d5f2d87e36f99","type":"text","text":"Radha : ","x":-440,"y":220,"width":250,"height":60},
+		{"id":"c500572f04c3145f","type":"text","text":"Radha \nHow to be sharnagat \n3 lakshan \n1. Sabse bada lakshan kii Humne koi lakshan hai hi nahi \n\t1. Radha radha radha radha \n\t2. (Caro taraf se surrender, tab surrender hota, ab to jaisa sriji rakhe waisa )\n2. Jab use apne me koi samarthya na dikhaye, jaisa Sri ji rakhe waisa radha radha \n\n3. ","x":-54,"y":357,"width":294,"height":563},
+		{"id":"ea3eb72a6bf499ab","type":"text","text":"According to guru ","x":-54,"y":220,"width":250,"height":60},
+		{"id":"6ba30a2406494359","x":391,"y":625,"width":249,"height":295,"type":"text","text":"1. Mai kisi layak nahi hun \n2. He nath apko jaisa banana ho bana lena \n3. Mai kabhi bhi kisi bhi tarha se dig sakta hun aap muze pakde rehna "}
+	],
+	"edges":[
+		{"id":"4b4054829002ea19","fromNode":"0800710a01022302","fromSide":"left","toNode":"0db90917e284a9ef","toSide":"right"},
+		{"id":"7676798438975864","fromNode":"0db90917e284a9ef","fromSide":"bottom","toNode":"324d5f2d87e36f99","toSide":"top"},
+		{"id":"b551cfeab71ada15","fromNode":"0db90917e284a9ef","fromSide":"bottom","toNode":"ea3eb72a6bf499ab","toSide":"top"},
+		{"id":"8cdb236fec884273","fromNode":"ea3eb72a6bf499ab","fromSide":"bottom","toNode":"c500572f04c3145f","toSide":"top"}
+	]
+}

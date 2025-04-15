@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"723a2d3c540c519f","type":"text","text":"Iss pain ki satta hi khatam kar dalni hai muze ","x":302,"y":-88,"width":250,"height":60,"color":"2"},
+		{"id":"9f50a6fec3ad16f0","type":"text","text":"02/2025 \nKuch nahi tha \nNa Mata pita ka pyar, na sanskar\nNa anukul wata waran \nNa koi choice \nJail","x":-400,"y":-600,"width":268,"height":50},
+		{"id":"ff938a51fc2c3fad","type":"text","text":"Ye pain muze bandhe hue hai na ","x":-40,"y":-76,"width":250,"height":60},
+		{"id":"cc7dc4d8c38b157f","type":"text","text":"It might, mean that there is sukha in this ","x":85,"y":-280,"width":250,"height":60},
+		{"id":"338bb19963fb1021","type":"text","text":"The only source of bandhan in this world remaining \n= pain to leave \n","x":-257,"y":-280,"width":250,"height":60},
+		{"id":"81c32f9ce2f2a6ff","type":"text","text":"","x":777,"y":-688,"width":250,"height":60},
+		{"id":"9f90ac867e4c1e66","type":"text","text":"In Research ","x":861,"y":-250,"width":250,"height":60,"color":"3"},
+		{"id":"0793071b6639718a","type":"text","text":"Intense radha naam jaaps, ","x":1250,"y":-486,"width":280,"height":50,"color":"3"},
+		{"id":"a562f97c6c718019","type":"text","text":"Can do multiple 24 minute radha naam jaaps, in a day ","x":1670,"y":-712,"width":253,"height":106},
+		{"id":"d301d93c89c78b90","type":"text","text":"There has to be a tarika, \nSome thought process of this , which i havent discovered fully yet , so need to find that as well ","x":1673,"y":-461,"width":250,"height":149},
+		{"id":"8d4e69784c7be2ee","type":"text","text":"","x":1075,"y":-684,"width":250,"height":60},
+		{"id":"5ba196a4c5480b83","type":"text","text":"Jabbhi thoda bhot bhi sukh mein , ho ","x":1265,"y":-120,"width":250,"height":62},
+		{"id":"0e55a79b0b57ea30","type":"text","text":"Do the 7 minute medetation 9f Sadguru ","x":1597,"y":-73,"width":250,"height":60},
+		{"id":"837e35ebc8ed10d7","type":"text","text":"Which are working , + How to properly , + tips ","x":825,"y":400,"width":250,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"88bebe726e56b707","fromNode":"ff938a51fc2c3fad","fromSide":"right","toNode":"723a2d3c540c519f","toSide":"left"},
+		{"id":"3debc6e51e05f1ae","fromNode":"cc7dc4d8c38b157f","fromSide":"left","toNode":"338bb19963fb1021","toSide":"right"},
+		{"id":"ed00d44d780a7b57","fromNode":"338bb19963fb1021","fromSide":"bottom","toNode":"ff938a51fc2c3fad","toSide":"top"},
+		{"id":"7b879357f37076d5","fromNode":"0793071b6639718a","fromSide":"top","toNode":"a562f97c6c718019","toSide":"left"},
+		{"id":"8f411c0514c7dd6f","fromNode":"723a2d3c540c519f","fromSide":"top","toNode":"9f90ac867e4c1e66","toSide":"left"},
+		{"id":"7e24f4e44d8f6f15","fromNode":"723a2d3c540c519f","fromSide":"right","toNode":"837e35ebc8ed10d7","toSide":"left"},
+		{"id":"ef5d1c37fd32e9b6","fromNode":"9f90ac867e4c1e66","fromSide":"right","toNode":"5ba196a4c5480b83","toSide":"left"},
+		{"id":"f69b83a93ec14694","fromNode":"9f90ac867e4c1e66","fromSide":"right","toNode":"0793071b6639718a","toSide":"left"},
+		{"id":"5f473f7e127933b8","fromNode":"d301d93c89c78b90","fromSide":"left","toNode":"0793071b6639718a","toSide":"bottom"},
+		{"id":"e3327d8dec73079b","fromNode":"5ba196a4c5480b83","fromSide":"right","toNode":"0e55a79b0b57ea30","toSide":"left"}
+	]
+}

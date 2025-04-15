@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"2ed8f7976c3d6bba","type":"text","text":"- [ ] Shambhavi Maha mudra kriya ","x":-16,"y":102,"width":250,"height":60,"color":"3"},
+		{"id":"73debc870a9b8d38","type":"text","text":"Path ","x":-400,"y":-860,"width":250,"height":60},
+		{"id":"7ebe723f19c7517c","type":"text","text":"Immaculate routine, of body and mind too ","x":63,"y":-211,"width":250,"height":60},
+		{"id":"62e6b5622f098b6d","type":"text","text":"Full hahagidari and openness ","x":-480,"y":220,"width":250,"height":60},
+		{"id":"bbee4cbb1d0c1163","type":"text","text":"Alternate In-come of money path ","x":440,"y":-151,"width":250,"height":60,"color":"6"},
+		{"id":"aeb248ee75cb2ba1","x":-89,"y":-350,"width":250,"height":60,"type":"text","text":"Immaculate routine before starting to Trade "},
+		{"id":"90119d00ff6e7dfe","x":87,"y":-484,"width":250,"height":60,"type":"text","text":"Success in Trading "}
+	],
+	"edges":[
+		{"id":"a5a6bbcac44fab9f","fromNode":"2ed8f7976c3d6bba","fromSide":"top","toNode":"7ebe723f19c7517c","toSide":"bottom"},
+		{"id":"72d496badc5db99c","fromNode":"62e6b5622f098b6d","fromSide":"right","toNode":"2ed8f7976c3d6bba","toSide":"left"}
+	]
+}

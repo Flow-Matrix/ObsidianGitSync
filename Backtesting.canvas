@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e28269de36a5c9eb","x":154,"y":-164,"width":250,"height":60,"color":"6","type":"text","text":"Suggestions "},
+		{"id":"b645cc1752f13918","x":786,"y":-480,"width":334,"height":202,"type":"text","text":"1. Harr Object on chart ka... \n2. Agga picha pata ho / ye pata ho ki abhi konse stage pe hai, \n3. (it gives mind peace and sense of being in control atleast) "},
+		{"id":"e60c2d06e994e263","x":-320,"y":0,"width":260,"height":539,"color":"6","type":"text","text":"Backtesting "},
+		{"id":"69fbe82182983c31","x":404,"y":-338,"width":250,"height":60,"color":"6","type":"text","text":"While working on ground"}
+	],
+	"edges":[
+		{"id":"934c4f40fbe2fe35","fromNode":"e60c2d06e994e263","fromSide":"right","toNode":"e28269de36a5c9eb","toSide":"left","color":"6"},
+		{"id":"22ecccf700c763ec","fromNode":"e28269de36a5c9eb","fromSide":"right","toNode":"69fbe82182983c31","toSide":"left","color":"6"},
+		{"id":"a01cd2ddb52fcd98","fromNode":"69fbe82182983c31","fromSide":"right","toNode":"b645cc1752f13918","toSide":"left"}
+	]
+}

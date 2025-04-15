@@ -1,0 +1,671 @@
+{
+  "edges": [
+    {
+      "fromNode": "2d329672b0642636",
+      "fromSide": "right",
+      "id": "022b7ebfaee9a225",
+      "toNode": "107414a25a19d19e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7237b7f6a6e18573",
+      "fromSide": "right",
+      "id": "dd60d5d78dc73fac",
+      "toNode": "b7492dc20e6b63a9",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b7492dc20e6b63a9",
+      "fromSide": "right",
+      "id": "5fc42881c1303bc2",
+      "toNode": "2d329672b0642636",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2d329672b0642636",
+      "fromSide": "right",
+      "id": "4f9c92b4f811b59a",
+      "toNode": "355f9dcae23e8531",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b7492dc20e6b63a9",
+      "fromSide": "right",
+      "id": "19271bd797a43998",
+      "toNode": "a271b8385a772910",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8f4823fa81cbcc4a",
+      "fromSide": "right",
+      "id": "a23e96781ce45ab0",
+      "toNode": "1b825fe7f0b9cb6a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a271b8385a772910",
+      "fromSide": "right",
+      "id": "3b33cd6757cd39b2",
+      "toNode": "de9dadb74124af10",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "66fb3864c588ead3",
+      "fromSide": "right",
+      "id": "7a78a79b44d43ec3",
+      "toNode": "8b41c4debfdd7858",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "66fb3864c588ead3",
+      "fromSide": "right",
+      "id": "051d2c8408103918",
+      "toNode": "ad3a90bbe01572af",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "44ce543e94754b39",
+      "fromSide": "right",
+      "id": "7d6302c1544324f0",
+      "toNode": "afef325b60517c7b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "44ce543e94754b39",
+      "fromSide": "right",
+      "id": "0da731e49bcda18e",
+      "toNode": "fae38b668fa3efb1",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "44ce543e94754b39",
+      "fromSide": "right",
+      "id": "3a87756a087d1563",
+      "toNode": "4bf659c10e7beffd",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b5fae1f60b9cb2b8",
+      "fromSide": "bottom",
+      "id": "1877b38a925ad542",
+      "toNode": "2cae6ad767891ed4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "d4f6c43ab094b35f",
+      "fromSide": "left",
+      "id": "5dd283b1769bbf56",
+      "toNode": "24d7f5f2fd331835",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "d4f6c43ab094b35f",
+      "fromSide": "left",
+      "id": "bace494c7ba72bfa",
+      "toNode": "d6ae36aa99b69b93",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e696c505f8ea4738",
+      "fromSide": "top",
+      "id": "1e51518f07b5ba6f",
+      "toNode": "69eeadfa3f27d2e6",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "6787757ef727c341",
+      "fromSide": "left",
+      "id": "f5dabf5000e9d650",
+      "toNode": "a882f05ae83fc49a",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "6787757ef727c341",
+      "fromSide": "right",
+      "id": "d326e02a788076d6",
+      "toNode": "66b826e78ad77986",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "6787757ef727c341",
+      "fromSide": "top",
+      "id": "d1b074f6db853330",
+      "toNode": "350964af9fa21a09",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "350964af9fa21a09",
+      "fromSide": "right",
+      "id": "9179b663eeec35a1",
+      "toNode": "aeb6eefd3e2a1d48",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3b351568760a1d15",
+      "fromSide": "top",
+      "id": "d361df7dbaa28c63",
+      "toNode": "fd80719db778ba8e",
+      "toSide": "bottom"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "7237b7f6a6e18573",
+      "styleAttributes": {
+      },
+      "text": "Rules ko follow karna ",
+      "type": "text",
+      "width": 250,
+      "x": -5,
+      "y": -139
+    },
+    {
+      "height": 60,
+      "id": "7ab122d0e57b819f",
+      "styleAttributes": {
+      },
+      "text": "Yadi eko ghatiya entry ho bhi jaye to usko loss me cut karke, \nJo bhi loss ho raha ho, uss din ko discard kar dena ",
+      "type": "text",
+      "width": 250,
+      "x": -40,
+      "y": 520
+    },
+    {
+      "height": 163,
+      "id": "eca3bd38cfde77af",
+      "styleAttributes": {
+      },
+      "text": "Koi entry na milne pe ek ghatiya trade ko chor dena, \nKoi entry na milne pe radhe radhe pure ke pure din ko hi skip kar dena \nAur radhe radhe entry milne pe fearlessly suggested quantity ke sath SL ke sath enter karna, \n\taur for uske Baad chart dekhna hi nahi ",
+      "type": "text",
+      "width": 240,
+      "x": -35,
+      "y": 99
+    },
+    {
+      "height": 60,
+      "id": "b7492dc20e6b63a9",
+      "styleAttributes": {
+      },
+      "text": "How to increase rule Following ",
+      "type": "text",
+      "width": 250,
+      "x": 245,
+      "y": -390
+    },
+    {
+      "height": 316,
+      "id": "107414a25a19d19e",
+      "styleAttributes": {
+      },
+      "text": "Entry model 2, EM 2 \n\nLet's say after entri g very very well still the privlce reaches the L10/2 Stoploss, \nThen, inverse the position immediately (currently with same quantity and sl span )\nT: wiht around 300 point near target 🎯 ",
+      "type": "text",
+      "width": 274,
+      "x": 1200,
+      "y": -280
+    },
+    {
+      "height": 160,
+      "id": "2d329672b0642636",
+      "styleAttributes": {
+      },
+      "text": "For this, rules clear hone cahiye \n\nSare backtested Entry Models rate hone cahiye ",
+      "type": "text",
+      "width": 280,
+      "x": 640,
+      "y": -520
+    },
+    {
+      "height": 371,
+      "id": "355f9dcae23e8531",
+      "styleAttributes": {
+      },
+      "text": "Entry Model 1 :\n\n   - [ ] greater than = 3 Liquidity Grabs - > \n   \n   - [ ] Activator Edge broken -> \n   - [ ] Entry in a Spikiest time (that too of there is No same liquidity pool below, - > otherwise enter with 1/3 rd quantity )\n- [ ] ",
+      "type": "text",
+      "width": 274,
+      "x": 1200,
+      "y": -691
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "e56aa95b60daa106",
+      "styleAttributes": {
+      },
+      "text": "Best things metrics in trading ",
+      "type": "text",
+      "width": 250,
+      "x": -560,
+      "y": 39
+    },
+    {
+      "height": 461,
+      "id": "de9dadb74124af10",
+      "styleAttributes": {
+      },
+      "text": "Statements to Increase this : \n(santawna dene hogi ki vivek se bhi ye kaam ho jaega, radha)\n\n-> Mere EM long term me muze paise bana ke denge hi, I need to follow the rules for that \nMere entry model hi keval pasia bana sakte hai yaha pe, baki Kuchh bhi nahi (so entry only in EMs )",
+      "type": "text",
+      "width": 320,
+      "x": 940,
+      "y": -1260
+    },
+    {
+      "height": 126,
+      "id": "44ce543e94754b39",
+      "styleAttributes": {
+      },
+      "text": "What's the best thing that can happen with the loss range of the day ",
+      "type": "text",
+      "width": 246,
+      "x": -1166,
+      "y": 1674
+    },
+    {
+      "height": 192,
+      "id": "66fb3864c588ead3",
+      "styleAttributes": {
+      },
+      "text": "What are the best habits that you can imbibe \n\n(ie which reduces the projections of reward/loss in mind )",
+      "type": "text",
+      "width": 257,
+      "x": -3577,
+      "y": 1848
+    },
+    {
+      "height": 151,
+      "id": "8b41c4debfdd7858",
+      "styleAttributes": {
+      },
+      "text": "After taking Entry, not looking at the charts strictly either before the Target arrives or next Entry area arrives.. ",
+      "type": "text",
+      "width": 253,
+      "x": -3226,
+      "y": 1480
+    },
+    {
+      "height": 132,
+      "id": "ad3a90bbe01572af",
+      "styleAttributes": {
+      },
+      "text": "For each day, Not fixating myself to any number, rather that daily loss dollars, each day ",
+      "type": "text",
+      "width": 279,
+      "x": -3239,
+      "y": 1716
+    },
+    {
+      "height": 238,
+      "id": "a271b8385a772910",
+      "styleAttributes": {
+      },
+      "text": "Patience / Vivek \nKisi bhi point pe kuch bhi expectation/attachment na hona \nBecause you need to be able to be wait at any pointt of pnl ",
+      "type": "text",
+      "width": 242,
+      "x": 640,
+      "y": -880
+    },
+    {
+      "height": 151,
+      "id": "fae38b668fa3efb1",
+      "styleAttributes": {
+      },
+      "text": "Ki mai pura din wait karta rahu baut kisi karan entry misanalize ho jaye aur din ke end tak mai usse learning le lu, ",
+      "type": "text",
+      "width": 268,
+      "x": -788,
+      "y": 1629
+    },
+    {
+      "height": 198,
+      "id": "4bf659c10e7beffd",
+      "styleAttributes": {
+      },
+      "text": "Ki mai patiently alertly wait karu, Entry mil jaye, aur mai usko recheck karte wakt samaz jau ki ye galat analysis hai, aur dor mai use skip kar du ",
+      "type": "text",
+      "width": 274,
+      "x": -794,
+      "y": 1900
+    },
+    {
+      "height": 60,
+      "id": "b5fae1f60b9cb2b8",
+      "styleAttributes": {
+      },
+      "text": "Pure Raw questions ",
+      "type": "text",
+      "width": 250,
+      "x": -2592,
+      "y": -660
+    },
+    {
+      "height": 60,
+      "id": "2cae6ad767891ed4",
+      "styleAttributes": {
+      },
+      "text": "Currently, for being profitable ",
+      "type": "text",
+      "width": 250,
+      "x": -2887,
+      "y": -494
+    },
+    {
+      "height": 60,
+      "id": "d4f6c43ab094b35f",
+      "styleAttributes": {
+      },
+      "text": "You hav eto follow a fixed set of rules.. ",
+      "type": "text",
+      "width": 250,
+      "x": -2887,
+      "y": -360
+    },
+    {
+      "height": 200,
+      "id": "a4cbf02e2dd86cdc",
+      "styleAttributes": {
+      },
+      "text": "Or question : \nWill the market look exactly the same even after few years \nNo pattern will change on it ",
+      "type": "text",
+      "width": 250,
+      "x": -3234,
+      "y": -80
+    },
+    {
+      "height": 60,
+      "id": "24d7f5f2fd331835",
+      "styleAttributes": {
+      },
+      "text": "Byt this means, you are saying that in future also, market will keep on making the exact same patterns essentialy",
+      "type": "text",
+      "width": 250,
+      "x": -3234,
+      "y": -140
+    },
+    {
+      "height": 60,
+      "id": "d6ae36aa99b69b93",
+      "styleAttributes": {
+      },
+      "text": "Jim Simon's on System being leaking : ",
+      "type": "text",
+      "width": 250,
+      "x": -2887,
+      "y": -140
+    },
+    {
+      "height": 481,
+      "id": "955372ef6be459af",
+      "styleAttributes": {
+      },
+      "text": "My thinking on this : \nRetailer have an sharp eye on turning points, \nAfter let's say 5 TP from the same area, \n\nThe future projection at that point will start (this increase the load on market and givea newer opp to suk )\n\nSo till when this ep will keep getting slidden back 1. Maybe till the sudden full jolt time (it surpasses their own buy/sell areas)) ",
+      "type": "text",
+      "width": 287,
+      "x": -2767,
+      "y": 239
+    },
+    {
+      "height": 160,
+      "id": "8f4823fa81cbcc4a",
+      "styleAttributes": {
+      },
+      "text": "Best day gaya uski hierarchy \n(ie uss din long term ke liye kuch gadbad ho sakta tha wo bach gaya )",
+      "type": "text",
+      "width": 320,
+      "x": -2467,
+      "y": 2758
+    },
+    {
+      "height": 176,
+      "id": "7cf94cfa767645d7",
+      "styleAttributes": {
+      },
+      "text": "Ek acche setup ke liye patiently wait kia,  \nSetup ke sare points perfectly comply hote hi, fearlessly, 'decided' quantity ke sath entry leli",
+      "type": "text",
+      "width": 269,
+      "x": -1976,
+      "y": 2864
+    },
+    {
+      "height": 60,
+      "id": "6a48902b9232a7bb",
+      "styleAttributes": {
+      },
+      "text": "Kaii karan steup ka kuch pint miss hogaya aur loss lene ke bad pata chala \nMai usme sudar ki sikh leke day ko hard close kar diya ",
+      "type": "text",
+      "width": 250,
+      "x": -1976,
+      "y": 3160
+    },
+    {
+      "height": 60,
+      "id": "5ee962b46fe762d5",
+      "styleAttributes": {
+      },
+      "text": "Pata tha galat entry hone ja rahi hai, still mere dimag me Entry lene ki iccha ho rahi thi\n\nStill, mai ruk gaya, uss entry ke rule banaye aur back test result ko notice kia, \nThen, usko as a new baby Entry Model ke taur pe introduce kiya ",
+      "type": "text",
+      "width": 250,
+      "x": -1976,
+      "y": 3320
+    },
+    {
+      "height": 140,
+      "id": "1b825fe7f0b9cb6a",
+      "styleAttributes": {
+      },
+      "text": "EK acche setup je liye patiently wait kia \nStill setup perfectly nahi bana to use chod diya ",
+      "type": "text",
+      "width": 266,
+      "x": -1976,
+      "y": 2560
+    },
+    {
+      "height": 60,
+      "id": "afef325b60517c7b",
+      "styleAttributes": {
+      },
+      "text": "Ki mai puura din alertly wait karta rahu aur entry na mile aur wo din mei skip kar du ",
+      "type": "text",
+      "width": 250,
+      "x": -788,
+      "y": 1460
+    },
+    {
+      "height": 60,
+      "id": "8c7bf7fae9c906e8",
+      "styleAttributes": {
+      },
+      "text": "What's absolutely necessary right now ",
+      "type": "text",
+      "width": 250,
+      "x": 2598,
+      "y": -780
+    },
+    {
+      "height": 60,
+      "id": "44774a4fa6097f88",
+      "styleAttributes": {
+      },
+      "text": "Ek aisa system ya process bna Alu, ki usse bs follow karke long term mein stabally money I follow ho ",
+      "type": "text",
+      "width": 250,
+      "x": 2574,
+      "y": -890
+    },
+    {
+      "height": 655,
+      "id": "1520dd476b4ecba3",
+      "styleAttributes": {
+      },
+      "text": "What was I doing main main \n1. Researching on making graphs for consecutive losses and winrate relation \n2. Was connecting obsidian using git \n\n(abb dikkat ye hai ki ), ye upar wale dono, important hai but not that important.. \nImportant cheez jo hai wo likhi hia see on left side, USPE MUZE KUCH ADVANCEMENT KARNA HAI , not in the above two, so abb wo mai kya aur kaise karo \n\nOkay let's go then, fist step found I need to to a broader think approach o  that first, to absulutly know that's the best I can be doing \n(basically I ma doing a robustness test 'wrt to main long term factors' on what process I ma currently been doing only  ) (alter, robustness test on what I am currently doing, to see it's closeness wrt to the long term factors, ) (robustness test, kya agar keval mai ye karta rahunga to kya mai lft ke closer pohonch raha hun, ya kya improve t ho to poss hai./ agar keval mai ye karta rahun to kya mai decently sahi direction me jaunga, Jaa raha hun? )",
+      "type": "text",
+      "width": 508,
+      "x": 3092,
+      "y": -975
+    },
+    {
+      "height": 60,
+      "id": "4261617b121bcb8a",
+      "styleAttributes": {
+      },
+      "text": "Or ym, inflow ho money ka stabally, OUTFLOW kam se kam hi ho, \nBasically, Win rate Accha rahe ",
+      "type": "text",
+      "width": 250,
+      "x": 2485,
+      "y": -978
+    },
+    {
+      "height": 60,
+      "id": "0a3c1b7f3f6c0b2c",
+      "styleAttributes": {
+      },
+      "text": "Plsy kya ye long term ver long term mein stable rahenge rules, \nHow much dd I might need to face, I  wcs ",
+      "type": "text",
+      "width": 250,
+      "x": 2499,
+      "y": -1052
+    },
+    {
+      "height": 308,
+      "id": "d49e8e0eae4c1c97",
+      "styleAttributes": {
+      },
+      "text": "Useful for ahed in process \n\n1. For very long term Scenerio, doing a wcs, seeing of wcs reduce t is possible somehow,! After finding the rules forst  💻Radha Radha ",
+      "type": "text",
+      "width": 415,
+      "x": 1840,
+      "y": -948
+    },
+    {
+      "height": 60,
+      "id": "e696c505f8ea4738",
+      "styleAttributes": {
+      },
+      "text": "For psychological stability, analysis in lenthning process ",
+      "type": "text",
+      "width": 250,
+      "x": 1695,
+      "y": -1414
+    },
+    {
+      "height": 60,
+      "id": "69eeadfa3f27d2e6",
+      "styleAttributes": {
+      },
+      "text": "Having an eye, + feeling of some ray o f hope, some solid ii ho jaega is very very necessary\nFeeling if some solid reason ki ho jaega is ver very necessary , \nThen yu remain stable ",
+      "type": "text",
+      "width": 250,
+      "x": 1603,
+      "y": -1547
+    },
+    {
+      "height": 138,
+      "id": "a882f05ae83fc49a",
+      "styleAttributes": {
+      },
+      "text": "Step 2 : Lengthening of that process in long future \nFor every poss  wcs reducements \n\nIf not the you might have think, maybe reducing size by earlier on only can keep it safe or something, \nPlan that accordingly then, how budgeting and all ",
+      "type": "text",
+      "width": 249,
+      "x": 1891,
+      "y": -2240
+    },
+    {
+      "height": 148,
+      "id": "6787757ef727c341",
+      "styleAttributes": {
+      },
+      "text": "Step 1 : broader carving out of Backtesting processes ",
+      "type": "text",
+      "width": 324,
+      "x": 2140,
+      "y": -2000
+    },
+    {
+      "height": 60,
+      "id": "66b826e78ad77986",
+      "styleAttributes": {
+      },
+      "text": "Questions : \n1. Kya ye mai karte rahunga to, kya mai long term factors ke lose pohonch rhahhun? ",
+      "type": "text",
+      "width": 250,
+      "x": 2625,
+      "y": -2076
+    },
+    {
+      "height": 60,
+      "id": "350964af9fa21a09",
+      "styleAttributes": {
+      },
+      "text": "Backtesting method 1 ",
+      "type": "text",
+      "width": 250,
+      "x": 3626,
+      "y": -3042
+    },
+    {
+      "height": 313,
+      "id": "aeb6eefd3e2a1d48",
+      "styleAttributes": {
+      },
+      "text": "\nRegarding how I am making and changing the rules : \n\nRule ke work na karne ka \nmera current factor hai ki SL hit ho jana ",
+      "type": "text",
+      "width": 350,
+      "x": 3990,
+      "y": -2933
+    },
+    {
+      "height": 283,
+      "id": "7ff056445d4c610c",
+      "styleAttributes": {
+      },
+      "text": "Good traits for a good process to follow \n\n1. Winrate bhi Accha ho jyada khachar pachar na ho, (kam se kam false sigma aye )",
+      "type": "text",
+      "width": 290,
+      "x": 4230,
+      "y": -3440
+    },
+    {
+      "height": 200,
+      "id": "3fd08fe2931df0f9",
+      "styleAttributes": {
+      },
+      "text": "What tradeoffs possible to increase these : \n\n1. Maybe leaving some trade (it absolutely will be necessary, according to statistical graph itself, the pea graph yk)",
+      "type": "text",
+      "width": 287,
+      "x": 4520,
+      "y": -3357
+    },
+    {
+      "height": 60,
+      "id": "62f08021900c4c22",
+      "styleAttributes": {
+      },
+      "text": "From Smriti ",
+      "type": "text",
+      "width": 250,
+      "x": 3990,
+      "y": -2993
+    },
+    {
+      "height": 60,
+      "id": "3b351568760a1d15",
+      "styleAttributes": {
+      },
+      "text": "Idea 1 ",
+      "type": "text",
+      "width": 250,
+      "x": 5088,
+      "y": -2909
+    },
+    {
+      "height": 60,
+      "id": "fd80719db778ba8e",
+      "styleAttributes": {
+      },
+      "text": "Motiv : Ki dekho phele atleast iske pichle trade ki to memory rahe, that's it, uske aage fir uss database ko evolve karte hai.. Rahd radha ",
+      "type": "text",
+      "width": 250,
+      "x": 5219,
+      "y": -3059
+    }
+  ]
+}

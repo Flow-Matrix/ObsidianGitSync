@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"fc456077f4d085c2","type":"text","text":"In this Panch bhautik Snasara \nWho am I ","x":240,"y":-224,"width":200,"height":90},
+		{"id":"8f4063fe3c5ddd00","type":"text","text":"* I dont take any bad Trades \n* I don't trade when I am in a bad mood \n* I don't trade when my identity is not 'I am a irrational rule follower' \n* I do not think of the numbers in my mind \n\t* I only try to do full justice to my setups and portfolio\n\t* by writing for the full target, and trailing if any pratikul fact is there \n\n","x":900,"y":-380,"width":300,"height":440},
+		{"id":"c7fed95c4566acf9","type":"text","text":"Who am I ","x":966,"y":-570,"width":250,"height":60},
+		{"id":"c5744d87f1be0dd4","type":"text","text":"What are my goals ","x":1360,"y":-570,"width":250,"height":60},
+		{"id":"ece6bd3e15003d9c","type":"text","text":"I as a Trader ","x":520,"y":-320,"width":250,"height":60},
+		{"id":"37612996c767f455","type":"text","text":"What is my Identity \nWho am I ","x":-240,"y":640,"width":250,"height":60},
+		{"id":"a29c6d45c097af8d","type":"text","text":"Goals ","x":1360,"y":-380,"width":250,"height":60},
+		{"id":"a5838557d2e56396","type":"text","text":"Ye ho jaye to maja hi Aa jaye ","x":1740,"y":-380,"width":250,"height":60},
+		{"id":"124beb022898a8df","type":"text","text":"What mistakes I repeated again \n\nYe maine dubara kyu kiya yr","x":2080,"y":-380,"width":250,"height":60},
+		{"id":"d32e99faa68ca59f","type":"text","text":"In the present moment \nWho am I ","x":358,"y":687,"width":250,"height":60},
+		{"id":"fef94346f0c95063","x":1060,"y":780,"width":250,"height":60,"type":"text","text":"**By focusing on the peripheral vision** "},
+		{"id":"6be7446f4af8e76d","type":"text","text":"In the present moment, **I think about the present and the present moment only fully** ","x":680,"y":414,"width":257,"height":156},
+		{"id":"6856d883c7eb1adf","x":680,"y":863,"width":225,"height":153,"type":"text","text":"Mualze kuch nahi cahiye, radha radha radha ke alawa \n\nI always do the things that give sukh to radha ju / which are logically best "},
+		{"id":"f27587bfe1c3e2f8","type":"text","text":"\n**I ​keep the awarness of my external observer self** \n**By focusing on the peripheral vision** ","x":680,"y":630,"width":257,"height":174}
+	],
+	"edges":[
+		{"id":"11174994a1537da3","fromNode":"37612996c767f455","fromSide":"right","toNode":"fc456077f4d085c2","toSide":"left"},
+		{"id":"5d46f8664408ebdd","fromNode":"ece6bd3e15003d9c","fromSide":"top","toNode":"c7fed95c4566acf9","toSide":"top"},
+		{"id":"5601cea6a84e764a","fromNode":"fc456077f4d085c2","fromSide":"right","toNode":"ece6bd3e15003d9c","toSide":"left"},
+		{"id":"ab6c08974ccbc2c8","fromNode":"ece6bd3e15003d9c","fromSide":"top","toNode":"c5744d87f1be0dd4","toSide":"top"},
+		{"id":"88c084a8ef1cd0be","fromNode":"37612996c767f455","fromSide":"right","toNode":"d32e99faa68ca59f","toSide":"left"},
+		{"id":"470d1724e480e8d1","fromNode":"d32e99faa68ca59f","fromSide":"right","toNode":"6be7446f4af8e76d","toSide":"left"},
+		{"id":"16604031e3e284ee","fromNode":"d32e99faa68ca59f","fromSide":"right","toNode":"f27587bfe1c3e2f8","toSide":"left"},
+		{"id":"d499dd857fff0a59","fromNode":"d32e99faa68ca59f","fromSide":"right","toNode":"6856d883c7eb1adf","toSide":"left"},
+		{"id":"bb62c7831b50acc8","fromNode":"f27587bfe1c3e2f8","fromSide":"right","toNode":"fef94346f0c95063","toSide":"left"}
+	]
+}

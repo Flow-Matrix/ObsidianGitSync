@@ -1,0 +1,50 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "f7dbb0af6b134fc0",
+      "styleAttributes": {
+      },
+      "text": "Kyu ab mere karma hi muze bacha sakte hai.. ",
+      "type": "text",
+      "width": 250,
+      "x": -107,
+      "y": 180
+    },
+    {
+      "height": 80,
+      "id": "466a602e9eff6fae",
+      "styleAttributes": {
+      },
+      "text": "Need to meet the outside expectations, sansarik of collages and other things ",
+      "type": "text",
+      "width": 303,
+      "x": -107,
+      "y": 320
+    },
+    {
+      "height": 153,
+      "id": "3abcc9d468342ba6",
+      "styleAttributes": {
+      },
+      "text": "Ek system ek process aisa taiyar ho aye, \nKis jise follow karke, meri entries se muze net profits mile, stabally ",
+      "type": "text",
+      "width": 269,
+      "x": 360,
+      "y": 680
+    },
+    {
+      "height": 60,
+      "id": "8949418d4504bd6f",
+      "styleAttributes": {
+      },
+      "text": "Current salvation/ liberation point ",
+      "type": "text",
+      "width": 250,
+      "x": 513,
+      "y": 586
+    }
+  ]
+}

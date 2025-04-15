@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"a3219fa4c43cc086","x":-106,"y":-191,"width":250,"height":60,"type":"text","text":"Before bouncing behaviors "},
+		{"id":"a9f5757b0a89a171","x":211,"y":-212,"width":250,"height":60,"type":"text","text":"What's required before that "},
+		{"id":"9a976f8eb8099545","x":540,"y":-400,"width":280,"height":80,"type":"text","text":"Price kisi ek side ke control Mein Aa jaye fully"},
+		{"id":"d51bfbdadfcb8b18","x":547,"y":-300,"width":267,"height":102,"type":"text","text":"Aur duuusri side ki control se bahar cali jaye? "},
+		{"id":"5c7c92ac6e648b7f","x":874,"y":-464,"width":250,"height":60,"type":"text","text":"Ie. "}
+	],
+	"edges":[
+		{"id":"c4fd2ecce12c5764","fromNode":"a3219fa4c43cc086","fromSide":"right","toNode":"a9f5757b0a89a171","toSide":"left"},
+		{"id":"c3a2b18f0df31630","fromNode":"a9f5757b0a89a171","fromSide":"right","toNode":"9a976f8eb8099545","toSide":"left"},
+		{"id":"b46600c9b40242a4","fromNode":"9a976f8eb8099545","fromSide":"right","toNode":"5c7c92ac6e648b7f","toSide":"left"}
+	]
+}
