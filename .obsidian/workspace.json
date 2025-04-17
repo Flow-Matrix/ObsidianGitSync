@@ -20,8 +20,43 @@
               "icon": "lucide-file",
               "title": "Fear analysis, for taking out some VOID time in a day"
             }
+          },
+          {
+            "id": "aae057f457f42036",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "random.canvas",
+                "viewState": {
+                  "x": 2152,
+                  "y": -1198,
+                  "zoom": -1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "random"
+            }
+          },
+          {
+            "id": "0bbc4c149de2727a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "IDEAA!.canvas",
+                "viewState": {
+                  "x": 608,
+                  "y": -276,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "IDEAA!"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,21 +177,41 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fear analysis, for taking out some VOID time in a day.md",
+                "file": "IDEAA!.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fear analysis, for taking out some VOID time in a day"
+              "title": "Outline of IDEAA!"
+            }
+          },
+          {
+            "id": "662518c05a52fea5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "13a37f7e8ba20c24",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,11 +220,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc4d3a1db2602287",
+  "active": "0bbc4c149de2727a",
   "lastOpenFiles": [
+    "IDEAA!.canvas",
+    "random.canvas",
+    "Fear analysis, for taking out some VOID time in a day.md",
     "Kaise hoga God.canvas",
     "1. - Rough Notes/Untitled.md"
   ]

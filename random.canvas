@@ -1,0 +1,244 @@
+{
+  "edges": [
+    {
+      "fromNode": "b78f1b36be24fb25",
+      "fromSide": "left",
+      "id": "63e66d202febde3f",
+      "toNode": "c07ae0a5c4ff0809",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c07ae0a5c4ff0809",
+      "fromSide": "right",
+      "id": "46e214c06742fc41",
+      "toNode": "b78f1b36be24fb25",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b78f1b36be24fb25",
+      "fromSide": "right",
+      "id": "5594237fff57e7c1",
+      "toNode": "c5d32597b8219600",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c5d32597b8219600",
+      "fromSide": "right",
+      "id": "254c8a5655d46f3f",
+      "toNode": "983601b10763118f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c5d32597b8219600",
+      "fromSide": "right",
+      "id": "19cdd9d20346031f",
+      "toNode": "e0f0662b5f03070c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e0f0662b5f03070c",
+      "fromSide": "right",
+      "id": "846f53faf951133c",
+      "styleAttributes": {
+      },
+      "toNode": "21fd26cb92c8d668",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "21fd26cb92c8d668",
+      "fromSide": "right",
+      "id": "b973443b29471b04",
+      "styleAttributes": {
+      },
+      "toNode": "1d240f4a08f79117",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7925ffbd7919d0bd",
+      "fromSide": "right",
+      "id": "fb830ce8a1d6af41",
+      "styleAttributes": {
+      },
+      "toNode": "7e05f7aa3cfa696f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7e05f7aa3cfa696f",
+      "fromSide": "right",
+      "id": "03f69c488cca9921",
+      "styleAttributes": {
+      },
+      "toNode": "b90ec7cd699db166",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "0a1b616b44d448ee",
+      "styleAttributes": {
+      },
+      "text": "work flows \n\t",
+      "type": "text",
+      "width": 250,
+      "x": -420,
+      "y": -220
+    },
+    {
+      "height": 60,
+      "id": "c07ae0a5c4ff0809",
+      "styleAttributes": {
+      },
+      "text": "Backtesting  ",
+      "type": "text",
+      "width": 250,
+      "x": -120,
+      "y": -280
+    },
+    {
+      "height": 100,
+      "id": "b78f1b36be24fb25",
+      "styleAttributes": {
+      },
+      "text": "there is no good 'comprehensive indicator' to backtests wrt ",
+      "type": "text",
+      "width": 300,
+      "x": 200,
+      "y": -480
+    },
+    {
+      "height": 60,
+      "id": "c5d32597b8219600",
+      "styleAttributes": {
+      },
+      "text": "making a good 'comprehensive indicator '",
+      "type": "text",
+      "width": 250,
+      "x": 774,
+      "y": -590
+    },
+    {
+      "height": 60,
+      "id": "1d240f4a08f79117",
+      "styleAttributes": {
+      },
+      "text": "cvd - vw cvd - > auto divergences on vw cvd  ",
+      "type": "text",
+      "width": 260,
+      "x": 2140,
+      "y": -930
+    },
+    {
+      "height": 60,
+      "id": "0dd1f8f1626f46a7",
+      "styleAttributes": {
+      },
+      "text": "- [ ] auto divergences on vw cvd  ",
+      "type": "text",
+      "width": 260,
+      "x": 2480,
+      "y": -900
+    },
+    {
+      "height": 60,
+      "id": "7e6a9b65808113f1",
+      "styleAttributes": {
+      },
+      "text": "- [ ] vw cvd",
+      "type": "text",
+      "width": 260,
+      "x": 2480,
+      "y": -980
+    },
+    {
+      "height": 60,
+      "id": "6d1c20bee9a6dd9b",
+      "styleAttributes": {
+      },
+      "text": "- [ ] cvd",
+      "type": "text",
+      "width": 260,
+      "x": 2480,
+      "y": -1060
+    },
+    {
+      "height": 160,
+      "id": "21fd26cb92c8d668",
+      "styleAttributes": {
+      },
+      "text": "auto divergences for \nvolume weighted cvd  ",
+      "type": "text",
+      "width": 240,
+      "x": 1820,
+      "y": -950
+    },
+    {
+      "height": 340,
+      "id": "e0f0662b5f03070c",
+      "styleAttributes": {
+      },
+      "text": "pinnacle idea for now \n1. indicator : Divergences on \n\n| pinnacle idea fn                        | expectation                                                                                                                    | problem | result |\n| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------- | ------ |\n| indicator : Divergences on vw cvd  <br> | solves the cvd effort problem , and give good signal in divergences <br><br>otherwise : <br>will try divergences on normal cvd |         |        |\n",
+      "type": "text",
+      "width": 520,
+      "x": 1140,
+      "y": -1040
+    },
+    {
+      "height": 60,
+      "id": "983601b10763118f",
+      "styleAttributes": {
+      },
+      "text": "tries : \nvw cvd\n\npinna ",
+      "type": "text",
+      "width": 250,
+      "x": 1140,
+      "y": -420
+    },
+    {
+      "height": 60,
+      "id": "7925ffbd7919d0bd",
+      "styleAttributes": {
+      },
+      "text": "wroiking on ",
+      "type": "text",
+      "width": 260,
+      "x": 1530,
+      "y": -1400
+    },
+    {
+      "height": 140,
+      "id": "7e05f7aa3cfa696f",
+      "styleAttributes": {
+      },
+      "text": "making a turning point indicator \nexpect: maybe it will be useful ahead in for Sl of strategeis : ",
+      "type": "text",
+      "width": 280,
+      "x": 1860,
+      "y": -1480
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "b90ec7cd699db166",
+      "styleAttributes": {
+      },
+      "text": "Making turning point Indicator ",
+      "type": "text",
+      "width": 260,
+      "x": 2240,
+      "y": -1640
+    },
+    {
+      "color": "#4a70c9",
+      "height": 60,
+      "id": "07ac621aa1ed78dc",
+      "styleAttributes": {
+      },
+      "text": "links , usable later ",
+      "type": "text",
+      "width": 260,
+      "x": 560,
+      "y": -1610
+    }
+  ]
+}
