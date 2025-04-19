@@ -29,17 +29,16 @@
               "state": {
                 "file": "Trading-DESKTOP-3BHEKEV.canvas",
                 "viewState": {
-                  "x": 3001.807838291051,
-                  "y": 1425.66727394373,
-                  "zoom": -1.270695802477997
+                  "x": 767.6271233806704,
+                  "y": 1371.7742912905699,
+                  "zoom": -0.9522448948568711
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Trading-DESKTOP-3BHEKEV"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "736f57a5b6238639",
+  "active": "c29f0199b8722ff1",
   "lastOpenFiles": [
     "Trading-DESKTOP-3BHEKEV.canvas",
     "1. - Rough Notes/Untitled.md",
