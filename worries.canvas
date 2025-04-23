@@ -1,0 +1,88 @@
+{
+  "edges": [
+    {
+      "fromNode": "00e12d460c7fb99c",
+      "fromSide": "right",
+      "id": "2f0b633c849cabdd",
+      "styleAttributes": {
+      },
+      "toNode": "5d2099150bc85884",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4a124a6d6ea2ef99",
+      "fromSide": "right",
+      "id": "1e6c7ba1151d1e6d",
+      "styleAttributes": {
+      },
+      "toNode": "94ff5271748e63ba",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 1920,
+      "id": "cb3f961c7c59b9e0",
+      "label": "Untitled group",
+      "type": "group",
+      "width": 660,
+      "x": -500,
+      "y": -280
+    },
+    {
+      "height": 60,
+      "id": "04e59b465cc13a7f",
+      "styleAttributes": {
+      },
+      "text": "",
+      "type": "text",
+      "width": 260,
+      "x": -440,
+      "y": 260
+    },
+    {
+      "height": 100,
+      "id": "4a124a6d6ea2ef99",
+      "styleAttributes": {
+      },
+      "text": "loss of a limited time event, ka possible fun ",
+      "type": "text",
+      "width": 360,
+      "x": -420,
+      "y": -40
+    },
+    {
+      "height": 280,
+      "id": "00e12d460c7fb99c",
+      "styleAttributes": {
+      },
+      "text": "befor you start worrying , \nlets say you want to buy cream biscuits , and you dont have money of that for it \nthen , why worry , ofc you will then have to settel for normal biscuits ,        ",
+      "type": "text",
+      "width": 280,
+      "x": -500,
+      "y": -900
+    },
+    {
+      "height": 220,
+      "id": "5d2099150bc85884",
+      "styleAttributes": {
+      },
+      "text": "worry only if your dhan could be undervalued , thats it \n\naur fir jo tu kharid hi nahi sakta abhi , uski cha karkna kya maturity hai ??",
+      "type": "text",
+      "width": 280,
+      "x": -160,
+      "y": -900
+    },
+    {
+      "height": 300,
+      "id": "94ff5271748e63ba",
+      "styleAttributes": {
+      },
+      "text": "asks to be able to avail this event \n=  rs3000+rs5000\n\n\n|     | accomodation cost | food cost            | travelling cost  | total |\n| --- | ----------------- | -------------------- | ---------------- | ----- |\n|     | 1800              | 900(if booked early) | 6000 (if train)  |       |\n|     | 1800              | 1600(if later)       | 14000(if flight) |       |\n|     |                   |                      |                  |       |\n|     |                   |                      |                  |       |\n",
+      "type": "text",
+      "width": 700,
+      "x": 300,
+      "y": -180
+    }
+  ]
+}

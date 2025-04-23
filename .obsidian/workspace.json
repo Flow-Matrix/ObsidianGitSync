@@ -27,15 +27,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "random.canvas",
+                "file": "random workflows.canvas",
                 "viewState": {
-                  "x": 2152,
-                  "y": -1198,
-                  "zoom": -1
+                  "x": 2402.3961030678915,
+                  "y": -2309.8451108879917,
+                  "zoom": -0.5
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "random"
+              "title": "random workflows"
             }
           },
           {
@@ -46,17 +46,34 @@
               "state": {
                 "file": "IDEAA!.canvas",
                 "viewState": {
-                  "x": 608,
-                  "y": -276,
+                  "x": 144,
+                  "y": -69,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "IDEAA!"
             }
+          },
+          {
+            "id": "57dea402694b0ed3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "worries.canvas",
+                "viewState": {
+                  "x": -67.5,
+                  "y": -196,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "worries"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -225,10 +242,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0bbc4c149de2727a",
+  "active": "aae057f457f42036",
   "lastOpenFiles": [
+    "worries.canvas",
+    "random workflows.canvas",
     "IDEAA!.canvas",
-    "random.canvas",
     "Fear analysis, for taking out some VOID time in a day.md",
     "Kaise hoga God.canvas",
     "1. - Rough Notes/Untitled.md"
