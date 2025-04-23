@@ -1,261 +1,262 @@
 {
 	"edges":[
 		{
-			"fromNode":"ab4e512eb5cec1c3",
-			"fromSide":"bottom",
 			"id":"57d9ed775f197667",
 			"styleAttributes":{},
+			"fromNode":"ab4e512eb5cec1c3",
+			"fromSide":"bottom",
 			"toNode":"814fc22255559b75",
 			"toSide":"top"
 		},
 		{
-			"fromNode":"814fc22255559b75",
-			"fromSide":"bottom",
 			"id":"dd008e5ceae14d12",
 			"styleAttributes":{},
+			"fromNode":"814fc22255559b75",
+			"fromSide":"bottom",
 			"toNode":"d40a4d28b2e7da5e",
 			"toSide":"top"
 		},
 		{
-			"fromNode":"d40a4d28b2e7da5e",
-			"fromSide":"right",
 			"id":"91d05da0fc628be2",
 			"styleAttributes":{},
+			"fromNode":"d40a4d28b2e7da5e",
+			"fromSide":"right",
 			"toNode":"5273841564de4d8b",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"5273841564de4d8b",
-			"fromSide":"right",
 			"id":"ec4aa0e0e571de81",
 			"styleAttributes":{},
+			"fromNode":"5273841564de4d8b",
+			"fromSide":"right",
 			"toNode":"3a898939f19ff6bd",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"cfa4bb3a5bea34e4",
-			"fromSide":"right",
 			"id":"6f814bb212c6aeb3",
 			"styleAttributes":{},
+			"fromNode":"cfa4bb3a5bea34e4",
+			"fromSide":"right",
 			"toNode":"62eed69ed691cfbe",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"62eed69ed691cfbe",
-			"fromSide":"right",
 			"id":"e8b93cef68d05162",
 			"styleAttributes":{},
+			"fromNode":"62eed69ed691cfbe",
+			"fromSide":"right",
 			"toNode":"97aa6bee3ae55729",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"97aa6bee3ae55729",
-			"fromSide":"right",
 			"id":"a7004466d745bb35",
 			"styleAttributes":{},
+			"fromNode":"97aa6bee3ae55729",
+			"fromSide":"right",
 			"toNode":"4bc909e4b5368c41",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"4bc909e4b5368c41",
-			"fromSide":"right",
 			"id":"3a1daf3361c6b390",
 			"styleAttributes":{},
+			"fromNode":"4bc909e4b5368c41",
+			"fromSide":"right",
 			"toNode":"5783fda1348beee9",
 			"toSide":"left"
 		}
 	],
 	"nodes":[
 		{
-			"height":2600,
 			"id":"e3b1142e35bfa017",
 			"isCollapsed":true,
-			"label":"Findings, and Relations wrt main Subject ",
 			"styleAttributes":{},
 			"type":"group",
-			"width":960,
 			"x":-2880,
-			"y":1470
+			"y":1470,
+			"width":960,
+			"height":2600,
+			"label":"Findings, and Relations wrt main Subject "
 		},
 		{
-			"height":60,
+			"id":"7d4a2d2d592de8df",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-840,
+			"y":1320,
+			"width":760,
+			"height":2840,
+			"label":"To experiment on answers "
+		},
+		{
+			"id":"0f30b846f7781caa",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-1760,
+			"y":1120,
+			"width":740,
+			"height":2780,
+			"label":"Experiments initial questions "
+		},
+		{"id":"df717d401fb64770","x":-2900,"y":660,"width":1940,"height":3430,"type":"group","label":"Untitled group"},
+		{
 			"id":"652bdbf4dbb7f293",
 			"styleAttributes":{},
 			"text":"Findings, : \n\n\n",
 			"type":"text",
-			"width":260,
 			"x":-2790,
-			"y":1580
+			"y":1580,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":520,
 			"id":"ff8aaa9b77ccedf8",
 			"styleAttributes":{},
 			"text":"Memory definitions \n\nHow to know when a memory is being good : (make these as Hindsight type questions, so tgat you can use it ), Memory Increasing when :\n\n1. When I can recall even the thing that I haven't made a significant effort to remember. Especially when it was needed to be remembered \n2. ",
 			"type":"text",
-			"width":440,
 			"x":-2710,
-			"y":1730
+			"y":1730,
+			"width":440,
+			"height":520
 		},
 		{
-			"height":2840,
-			"id":"7d4a2d2d592de8df",
-			"label":"To experiment on answers ",
-			"styleAttributes":{},
-			"type":"group",
-			"width":760,
-			"x":-840,
-			"y":1320
-		},
-		{
-			"height":2780,
-			"id":"0f30b846f7781caa",
-			"label":"Experiments initial questions ",
-			"styleAttributes":{},
-			"type":"group",
-			"width":740,
-			"x":-1760,
-			"y":1120
-		},
-		{
-			"height":60,
 			"id":"0c3c3adf4803a055",
 			"styleAttributes":{},
 			"text":"Experiments (forgery for different things )",
 			"type":"text",
-			"width":260,
 			"x":-1240,
-			"y":680
-		},
-		{
-			"height":60,
-			"id":"814fc22255559b75",
-			"styleAttributes":{},
-			"text":"Karma se hoga, ",
-			"type":"text",
+			"y":680,
 			"width":260,
-			"x":2900,
-			"y":-1200
+			"height":60
 		},
 		{
-			"height":60,
-			"id":"d40a4d28b2e7da5e",
-			"styleAttributes":{},
-			"text":"Karma ke liye kya kya chaiye ",
-			"type":"text",
-			"width":260,
-			"x":2920,
-			"y":-1020
-		},
-		{
-			"height":60,
-			"id":"5273841564de4d8b",
-			"styleAttributes":{},
-			"text":"Karm ke liye buddhi cahiye ",
-			"type":"text",
-			"width":260,
-			"x":3300,
-			"y":-1080
-		},
-		{
-			"height":60,
-			"id":"c4ec6c407b36ed1b",
-			"styleAttributes":{},
-			"text":"Karme ke liye, acchi memory cahiye, jo Kaam mai karr raha hu uske best till date structure ki ",
-			"type":"text",
-			"width":260,
-			"x":3340,
-			"y":-920
-		},
-		{
-			"height":60,
-			"id":"3a898939f19ff6bd",
-			"styleAttributes":{},
-			"text":"Kyu cahiye? \n- acchi memory cahiye work cache ki, ta",
-			"type":"text",
-			"width":260,
-			"x":3620,
-			"y":-1200
-		},
-		{
-			"height":60,
-			"id":"ab4e512eb5cec1c3",
-			"styleAttributes":{},
-			"text":"Kaise hoga God ",
-			"type":"text",
-			"width":260,
-			"x":2880,
-			"y":-1520
-		},
-		{
-			"height":160,
-			"id":"5071ac8bac0655a1",
-			"styleAttributes":{},
-			"text":"",
-			"type":"text",
-			"width":260,
-			"x":-1740,
-			"y":1500
-		},
-		{
-			"height":380,
 			"id":"62eed69ed691cfbe",
 			"styleAttributes":{},
 			"text":"###### **1, Memory Present me Rehne se bhadti hai!** \n\n\nMemory(work cache) present me hi fully present hone se milte hai ",
 			"type":"text",
-			"width":260,
 			"x":-780,
-			"y":1340
+			"y":1340,
+			"width":260,
+			"height":380
 		},
 		{
-			"height":160,
-			"id":"cfa4bb3a5bea34e4",
-			"styleAttributes":{"shape":"predefined-process"},
-			"text":"Memory \nMemory hai kya, \nYe kon ki chezo se badhti hai memory ",
-			"type":"text",
-			"width":350,
-			"x":-1740,
-			"y":1160
-		},
-		{
-			"height":160,
 			"id":"97aa6bee3ae55729",
 			"styleAttributes":{},
 			"text":"What Sadhana I can do To be in Present Moment , and/or Increase memory ",
 			"type":"text",
-			"width":280,
 			"x":-80,
-			"y":1320
+			"y":1320,
+			"width":280,
+			"height":160
 		},
 		{
-			"height":220,
 			"id":"4bc909e4b5368c41",
 			"styleAttributes":{},
 			"text":"1. Taking out necessary time in a day for  Void, / samar pant time in the day, where you do nothing ",
 			"type":"text",
-			"width":320,
 			"x":320,
-			"y":1260
+			"y":1260,
+			"width":320,
+			"height":220
 		},
 		{
 			"file":"Fear analysis, for taking out some VOID time in a day.md",
-			"height":60,
 			"id":"5783fda1348beee9",
 			"styleAttributes":{},
 			"type":"file",
-			"width":200,
 			"x":840,
-			"y":1840
+			"y":1840,
+			"width":200,
+			"height":60
 		},
 		{
-			"height":420,
 			"id":"77a0df7d8e46f9a7",
 			"styleAttributes":{},
 			"text":"## Fear analysis, tester template \n\n#### Brainstorm\n\nFastest way to test this dear out : \n\n#### Tools I can use here \n- clearly disceibing outcomes of the faer fully, \n- so after that,, I can do the most Righteous thing, that can possible go near that fear, and test the truiety fear out) \n\t- eg Darr hai ki koi Void time muze galat 'direction' na mod de. \n\t- hindsight question for this dear \n\t- and ye decision uss Void time ki den tha, uski wajha se ye galat hua hai \n\t- fastest way to test this fear out\n\t\t- (doing the 'most' rightous this, that can possible graze the fear, multiple times, and multiple times )\n\n\n### Process of fear analysis \n\n#### Process 01: \nStep 1 : ",
 			"type":"text",
-			"width":380,
 			"x":900,
-			"y":940
+			"y":940,
+			"width":380,
+			"height":420
+		},
+		{
+			"id":"814fc22255559b75",
+			"styleAttributes":{},
+			"text":"Karma se hoga, ",
+			"type":"text",
+			"x":2900,
+			"y":-1200,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d40a4d28b2e7da5e",
+			"styleAttributes":{},
+			"text":"Karma ke liye kya kya chaiye ",
+			"type":"text",
+			"x":2920,
+			"y":-1020,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"5273841564de4d8b",
+			"styleAttributes":{},
+			"text":"Karm ke liye buddhi cahiye ",
+			"type":"text",
+			"x":3300,
+			"y":-1080,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"c4ec6c407b36ed1b",
+			"styleAttributes":{},
+			"text":"Karme ke liye, acchi memory cahiye, jo Kaam mai karr raha hu uske best till date structure ki ",
+			"type":"text",
+			"x":3340,
+			"y":-920,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"3a898939f19ff6bd",
+			"styleAttributes":{},
+			"text":"Kyu cahiye? \n- acchi memory cahiye work cache ki, ta",
+			"type":"text",
+			"x":3620,
+			"y":-1200,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ab4e512eb5cec1c3",
+			"styleAttributes":{},
+			"text":"Kaise hoga God ",
+			"type":"text",
+			"x":2880,
+			"y":-1520,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"5071ac8bac0655a1",
+			"styleAttributes":{},
+			"text":"",
+			"type":"text",
+			"x":-1740,
+			"y":1500,
+			"width":260,
+			"height":160
+		},
+		{
+			"id":"cfa4bb3a5bea34e4",
+			"styleAttributes":{"shape":"predefined-process"},
+			"text":"Memory \nMemory hai kya, \nYe kon ki chezo se badhti hai memory ",
+			"type":"text",
+			"x":-1740,
+			"y":1160,
+			"width":350,
+			"height":160
 		}
 	]
 }
