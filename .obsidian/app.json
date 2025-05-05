@@ -1,1 +1,32 @@
-{}
+{
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:insert-embed",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:insert-tag",
+    "editor:set-heading",
+    "editor:insert-table",
+    "editor:toggle-checklist-status",
+    "editor:insert-link",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:attach-file",
+    "editor:configure-toolbar",
+    "editor:fold-more",
+    "editor:unfold-all",
+    "editor:fold-less",
+    "editor:toggle-fold",
+    "editor:insert-horizontal-rule",
+    "insert-current-date",
+    "insert-current-time",
+    "note-composer:split-file"
+  ],
+  "promptDelete": false
+}

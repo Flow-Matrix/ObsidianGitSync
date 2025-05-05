@@ -1,0 +1,126 @@
+{
+  "edges": [
+    {
+      "fromNode": "8560bab0c7dcc829",
+      "fromSide": "bottom",
+      "id": "c682e57463623625",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "toNode": "913060732d2a7646",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "8560bab0c7dcc829",
+      "fromSide": "bottom",
+      "id": "6c11171877efcfbc",
+      "styleAttributes": {
+        "arrow": null,
+        "path": null,
+        "pathfindingMethod": null
+      },
+      "toNode": "cf2db2d403099480",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "913060732d2a7646",
+      "fromSide": "bottom",
+      "id": "8711bb51d156746d",
+      "styleAttributes": {
+      },
+      "toNode": "e9ace2be0e878a90",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 200,
+      "id": "cf2db2d403099480",
+      "styleAttributes": {
+      },
+      "text": "- [ ] Trying to integrate openai GPT api, with obsidian, \nWhy's \n- toimprove writing mainly for now ",
+      "type": "text",
+      "width": 320,
+      "x": 320,
+      "y": 20
+    },
+    {
+      "height": 60,
+      "id": "8560bab0c7dcc829",
+      "styleAttributes": {
+      },
+      "text": "Side tasks / \n",
+      "type": "text",
+      "width": 260,
+      "x": 100,
+      "y": -180
+    },
+    {
+      "height": 200,
+      "id": "913060732d2a7646",
+      "styleAttributes": {
+      },
+      "text": "- [ ] Optimizing the the bottom tool bar for obsidian, \nSuch that there will be table feature in it atleast \n",
+      "type": "text",
+      "width": 280,
+      "x": -720,
+      "y": 40
+    },
+    {
+      "color": "3",
+      "height": 200,
+      "id": "7d05fb265fe7e02d",
+      "styleAttributes": {
+      },
+      "text": "- [ ] Can setup Obsidian properly, for Laptop also ",
+      "type": "text",
+      "width": 320,
+      "x": -160,
+      "y": 20
+    },
+    {
+      "height": 280,
+      "id": "e9ace2be0e878a90",
+      "styleAttributes": {
+      },
+      "text": "Can optimize obsidian more \n\nLike for spewed \n- [ ] can bring the checkbox button more close to left ",
+      "type": "text",
+      "width": 200,
+      "x": -920,
+      "y": 320
+    },
+    {
+      "height": 60,
+      "id": "3e5dc9d9ebc570ab",
+      "styleAttributes": {
+      },
+      "text": "Can turn of Samsung tab from 2 fat Auth \nFor main Gmail account \n\nNo intruptiok + security also ",
+      "type": "text",
+      "width": 260,
+      "x": -1400,
+      "y": 100
+    },
+    {
+      "height": 80,
+      "id": "bd5a77a2a22f60bd",
+      "styleAttributes": {
+      },
+      "text": "Can start teh process to take out btc from nice hash ",
+      "type": "text",
+      "width": 280,
+      "x": -1840,
+      "y": 120
+    },
+    {
+      "height": 60,
+      "id": "0a598c27310f3d24",
+      "styleAttributes": {
+      },
+      "text": "This Can give me ₹2000 in 5 days ",
+      "type": "text",
+      "width": 260,
+      "x": -1780,
+      "y": 40
+    }
+  ]
+}

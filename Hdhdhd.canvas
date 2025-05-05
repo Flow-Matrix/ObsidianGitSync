@@ -1,0 +1,272 @@
+
+{
+  "nodes": [
+    {
+      "id": "centralTopic",
+      "x": -150,
+      "y": -50,
+      "width": 300,
+      "height": 80,
+      "type": "text",
+      "text": "Conversation Summary:\nObsidian Plugins & Files"
+    },
+    {
+      "id": "createPlugins",
+      "x": -600,
+      "y": -250,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "Creating Plugins"
+    },
+    {
+      "id": "createPrereqs",
+      "x": -900,
+      "y": -350,
+      "width": 200,
+      "height": 60,
+      "type": "text",
+      "text": "Prerequisites:\nNode.js, JS/TS, Git"
+    },
+    {
+      "id": "createTemplate",
+      "x": -900,
+      "y": -250,
+      "width": 200,
+      "height": 40,
+      "type": "text",
+      "text": "Use Sample Template"
+    },
+    {
+      "id": "createDev",
+      "x": -900,
+      "y": -190,
+      "width": 200,
+      "height": 60,
+      "type": "text",
+      "text": "Develop:\nmain.ts, manifest.json"
+    },
+    {
+      "id": "createBuildTest",
+      "x": -900,
+      "y": -110,
+      "width": 200,
+      "height": 60,
+      "type": "text",
+      "text": "Build & Test Locally:\nnpm build, .obsidian/plugins"
+    },
+    {
+      "id": "editPlugins",
+      "x": 300,
+      "y": -250,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "Editing Plugins"
+    },
+    {
+      "id": "editFindFork",
+      "x": 600,
+      "y": -350,
+      "width": 200,
+      "height": 60,
+      "type": "text",
+      "text": "Find Source (GitHub)\n& Fork Repo"
+    },
+    {
+      "id": "editCloneModify",
+      "x": 600,
+      "y": -270,
+      "width": 200,
+      "height": 40,
+      "type": "text",
+      "text": "Clone Fork & Modify"
+    },
+    {
+      "id": "editBuildTest",
+      "x": 600,
+      "y": -210,
+      "width": 200,
+      "height": 60,
+      "type": "text",
+      "text": "Build & Test Locally\n(Rename ID!)"
+    },
+    {
+      "id": "editWarning",
+      "x": 600,
+      "y": -130,
+      "width": 200,
+      "height": 60,
+      "type": "text",
+      "text": "**Warning:**\nDon't edit installed files!"
+    },
+    {
+      "id": "fileTypes",
+      "x": -600,
+      "y": 150,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "File Types Discussed"
+    },
+    {
+      "id": "fileMD",
+      "x": -900,
+      "y": 100,
+      "width": 200,
+      "height": 60,
+      "type": "text",
+      "text": ".md Files:\nMarkdown, Notes"
+    },
+    {
+      "id": "fileCanvas",
+      "x": -900,
+      "y": 200,
+      "width": 200,
+      "height": 60,
+      "type": "text",
+      "text": ".canvas Files:\nJSON, Visual Layout"
+    },
+    {
+      "id": "aiReading",
+      "x": 300,
+      "y": 150,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "AI File Reading Ability"
+    },
+    {
+      "id": "aiReadText",
+      "x": 600,
+      "y": 100,
+      "width": 200,
+      "height": 60,
+      "type": "text",
+      "text": "Can Read Text Content\n(Markdown, JSON)"
+    },
+    {
+      "id": "aiCannotVisualize",
+      "x": 600,
+      "y": 200,
+      "width": 200,
+      "height": 40,
+      "type": "text",
+      "text": "Cannot Visualize Canvas"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge1",
+      "fromNode": "centralTopic",
+      "fromSide": "left",
+      "toNode": "createPlugins",
+      "toSide": "right"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "createPlugins",
+      "fromSide": "left",
+      "toNode": "createPrereqs",
+      "toSide": "right"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "createPlugins",
+      "fromSide": "left",
+      "toNode": "createTemplate",
+      "toSide": "right"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "createPlugins",
+      "fromSide": "left",
+      "toNode": "createDev",
+      "toSide": "right"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "createPlugins",
+      "fromSide": "left",
+      "toNode": "createBuildTest",
+      "toSide": "right"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "centralTopic",
+      "fromSide": "right",
+      "toNode": "editPlugins",
+      "toSide": "left"
+    },
+    {
+      "id": "edge7",
+      "fromNode": "editPlugins",
+      "fromSide": "right",
+      "toNode": "editFindFork",
+      "toSide": "left"
+    },
+    {
+      "id": "edge8",
+      "fromNode": "editPlugins",
+      "fromSide": "right",
+      "toNode": "editCloneModify",
+      "toSide": "left"
+    },
+    {
+      "id": "edge9",
+      "fromNode": "editPlugins",
+      "fromSide": "right",
+      "toNode": "editBuildTest",
+      "toSide": "left"
+    },
+    {
+      "id": "edge10",
+      "fromNode": "editPlugins",
+      "fromSide": "right",
+      "toNode": "editWarning",
+      "toSide": "left"
+    },
+    {
+      "id": "edge11",
+      "fromNode": "centralTopic",
+      "fromSide": "left",
+      "toNode": "fileTypes",
+      "toSide": "right"
+    },
+    {
+      "id": "edge12",
+      "fromNode": "fileTypes",
+      "fromSide": "left",
+      "toNode": "fileMD",
+      "toSide": "right"
+    },
+    {
+      "id": "edge13",
+      "fromNode": "fileTypes",
+      "fromSide": "left",
+      "toNode": "fileCanvas",
+      "toSide": "right"
+    },
+    {
+      "id": "edge14",
+      "fromNode": "centralTopic",
+      "fromSide": "right",
+      "toNode": "aiReading",
+      "toSide": "left"
+    },
+    {
+      "id": "edge15",
+      "fromNode": "aiReading",
+      "fromSide": "right",
+      "toNode": "aiReadText",
+      "toSide": "left"
+    },
+    {
+      "id": "edge16",
+      "fromNode": "aiReading",
+      "fromSide": "right",
+      "toNode": "aiCannotVisualize",
+      "toSide": "left"
+    }
+  ]
+}

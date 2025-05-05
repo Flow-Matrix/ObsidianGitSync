@@ -1,0 +1,1063 @@
+{
+  "edges": [
+    {
+      "fromNode": "b78f1b36be24fb25",
+      "fromSide": "left",
+      "id": "63e66d202febde3f",
+      "toNode": "c07ae0a5c4ff0809",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c07ae0a5c4ff0809",
+      "fromSide": "right",
+      "id": "46e214c06742fc41",
+      "toNode": "b78f1b36be24fb25",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b78f1b36be24fb25",
+      "fromSide": "right",
+      "id": "5594237fff57e7c1",
+      "toNode": "c5d32597b8219600",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c5d32597b8219600",
+      "fromSide": "right",
+      "id": "254c8a5655d46f3f",
+      "toNode": "983601b10763118f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c5d32597b8219600",
+      "fromSide": "right",
+      "id": "19cdd9d20346031f",
+      "toNode": "e0f0662b5f03070c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e0f0662b5f03070c",
+      "fromSide": "right",
+      "id": "846f53faf951133c",
+      "styleAttributes": {
+      },
+      "toNode": "21fd26cb92c8d668",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "21fd26cb92c8d668",
+      "fromSide": "right",
+      "id": "b973443b29471b04",
+      "styleAttributes": {
+      },
+      "toNode": "1d240f4a08f79117",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7925ffbd7919d0bd",
+      "fromSide": "right",
+      "id": "fb830ce8a1d6af41",
+      "styleAttributes": {
+      },
+      "toNode": "7e05f7aa3cfa696f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7e05f7aa3cfa696f",
+      "fromSide": "right",
+      "id": "03f69c488cca9921",
+      "styleAttributes": {
+      },
+      "toNode": "b90ec7cd699db166",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "07ac621aa1ed78dc",
+      "fromSide": "right",
+      "id": "3b06da754e9c067f",
+      "styleAttributes": {
+      },
+      "toNode": "49c186cbc3faece3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7925ffbd7919d0bd",
+      "fromSide": "right",
+      "id": "f01ac9df45d7819e",
+      "styleAttributes": {
+      },
+      "toNode": "af843a52714e126b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b90ec7cd699db166",
+      "fromSide": "bottom",
+      "id": "610a314cf803e0da",
+      "styleAttributes": {
+      },
+      "toNode": "af843a52714e126b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "af843a52714e126b",
+      "fromSide": "right",
+      "id": "3e73268af0ebdc3c",
+      "styleAttributes": {
+      },
+      "toNode": "857eb4867c199f58",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "857eb4867c199f58",
+      "fromSide": "right",
+      "id": "1717ddef0d5b1a0d",
+      "styleAttributes": {
+      },
+      "toNode": "de5046fabea336ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "de5046fabea336ee",
+      "fromSide": "right",
+      "id": "7dccc568be1e17e3",
+      "styleAttributes": {
+      },
+      "toNode": "e4ef921ab7575a90",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b4aeca736befd59d",
+      "fromSide": "right",
+      "id": "573e687336e26eb5",
+      "styleAttributes": {
+      },
+      "toNode": "4315a6595cba53b0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e805555b7fd0a0a1",
+      "fromSide": "bottom",
+      "id": "cc21b5d7396ca29b",
+      "toNode": "57aa2460e792cf6b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bd15697a5cc24e44",
+      "fromSide": "bottom",
+      "id": "841630bf5e597151",
+      "styleAttributes": {
+      },
+      "toNode": "4c86a8d7d8fcb91d",
+      "toSide": "top"
+    },
+    {
+      "color": "#3b3b3b",
+      "fromNode": "28cc21c38531c022",
+      "fromSide": "bottom",
+      "id": "357c172cdbe677fa",
+      "styleAttributes": {
+      },
+      "toNode": "bd15697a5cc24e44",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1313b4bf9641d7e7",
+      "fromSide": "bottom",
+      "id": "2efc0f911edba4f3",
+      "styleAttributes": {
+      },
+      "toNode": "3ea0344e4e2a1b7f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4c86a8d7d8fcb91d",
+      "fromSide": "left",
+      "id": "88fac1781908f8a0",
+      "styleAttributes": {
+      },
+      "toNode": "031cebc53276f550",
+      "toSide": "left"
+    },
+    {
+      "fromEnd": "arrow",
+      "fromNode": "459f287132235e5a",
+      "fromSide": "left",
+      "id": "b1b17903e8451991",
+      "styleAttributes": {
+        "arrow": "circle"
+      },
+      "toNode": "8ca0b25e2fd869c9",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9bcf63c7201379cc",
+      "fromSide": "top",
+      "id": "3ae841409564c272",
+      "styleAttributes": {
+      },
+      "toNode": "c8aef10712c74ae5",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "459f287132235e5a",
+      "fromSide": "bottom",
+      "id": "052890b5239747c7",
+      "styleAttributes": {
+      },
+      "toNode": "28cc21c38531c022",
+      "toSide": "top"
+    },
+    {
+      "color": "#474747",
+      "fromNode": "28cc21c38531c022",
+      "fromSide": "bottom",
+      "id": "116e74dfa7965c07",
+      "styleAttributes": {
+      },
+      "toNode": "9bcf63c7201379cc",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3ea0344e4e2a1b7f",
+      "fromSide": "bottom",
+      "id": "4137050fb604b840",
+      "styleAttributes": {
+      },
+      "toNode": "6eb68729de66961b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "28cc21c38531c022",
+      "fromSide": "bottom",
+      "id": "0a2d2c3d32d96f6d",
+      "styleAttributes": {
+      },
+      "toNode": "61c03742b43f4845",
+      "toSide": "top"
+    },
+    {
+      "color": "#363636",
+      "fromNode": "61c03742b43f4845",
+      "fromSide": "bottom",
+      "id": "29ce7652905860cd",
+      "styleAttributes": {
+      },
+      "toNode": "10b1192c21711df2",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "10b1192c21711df2",
+      "fromSide": "bottom",
+      "id": "d7ca0a2a2213a444",
+      "styleAttributes": {
+      },
+      "toNode": "32638ee39a8d2958",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "32638ee39a8d2958",
+      "fromSide": "bottom",
+      "id": "fdcb290ee4e70f9d",
+      "styleAttributes": {
+      },
+      "toNode": "0d6e1dfe51e5bc65",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "32638ee39a8d2958",
+      "fromSide": "bottom",
+      "id": "bd281f829b261144",
+      "styleAttributes": {
+      },
+      "toNode": "f9466f74a64b6d70",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b34eee0d4dea9165",
+      "fromSide": "right",
+      "id": "aa56cb0772ca303c",
+      "styleAttributes": {
+      },
+      "toNode": "fec4947b8b15039b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b34eee0d4dea9165",
+      "fromSide": "right",
+      "id": "44b153419031c1d3",
+      "styleAttributes": {
+      },
+      "toNode": "75881c03745f9a37",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bb8dba05aa9b2388",
+      "fromSide": "bottom",
+      "id": "529d165c37f85950",
+      "styleAttributes": {
+      },
+      "toNode": "75881c03745f9a37",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9d845492955f4e96",
+      "fromSide": "bottom",
+      "id": "cc868cf12d8b50de",
+      "styleAttributes": {
+      },
+      "toNode": "64eb011c5f4fcd01",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 6040,
+      "id": "e706a4b90767383a",
+      "label": "Phase 1, Making a Strat with pf > 2.7",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 5760,
+      "x": 6400,
+      "y": -2440
+    },
+    {
+      "height": 60,
+      "id": "0a1b616b44d448ee",
+      "styleAttributes": {
+      },
+      "text": "work flows \n\t",
+      "type": "text",
+      "width": 250,
+      "x": -420,
+      "y": -220
+    },
+    {
+      "height": 60,
+      "id": "c07ae0a5c4ff0809",
+      "styleAttributes": {
+      },
+      "text": "Backtesting  ",
+      "type": "text",
+      "width": 250,
+      "x": -120,
+      "y": -280
+    },
+    {
+      "height": 100,
+      "id": "b78f1b36be24fb25",
+      "styleAttributes": {
+      },
+      "text": "there is no good 'comprehensive indicator' to backtests wrt ",
+      "type": "text",
+      "width": 300,
+      "x": 200,
+      "y": -480
+    },
+    {
+      "height": 60,
+      "id": "c5d32597b8219600",
+      "styleAttributes": {
+      },
+      "text": "making a good 'comprehensive indicator '",
+      "type": "text",
+      "width": 250,
+      "x": 774,
+      "y": -590
+    },
+    {
+      "height": 60,
+      "id": "1d240f4a08f79117",
+      "styleAttributes": {
+      },
+      "text": "cvd - vw cvd - > auto divergences on vw cvd  ",
+      "type": "text",
+      "width": 260,
+      "x": 2140,
+      "y": -930
+    },
+    {
+      "height": 60,
+      "id": "0dd1f8f1626f46a7",
+      "styleAttributes": {
+      },
+      "text": "- [ ] auto divergences on vw cvd  ",
+      "type": "text",
+      "width": 260,
+      "x": 2480,
+      "y": -900
+    },
+    {
+      "height": 60,
+      "id": "7e6a9b65808113f1",
+      "styleAttributes": {
+      },
+      "text": "- [ ] vw cvd",
+      "type": "text",
+      "width": 260,
+      "x": 2480,
+      "y": -980
+    },
+    {
+      "height": 60,
+      "id": "6d1c20bee9a6dd9b",
+      "styleAttributes": {
+      },
+      "text": "- [ ] cvd",
+      "type": "text",
+      "width": 260,
+      "x": 2480,
+      "y": -1060
+    },
+    {
+      "height": 160,
+      "id": "21fd26cb92c8d668",
+      "styleAttributes": {
+      },
+      "text": "auto divergences for \nvolume weighted cvd  ",
+      "type": "text",
+      "width": 240,
+      "x": 1820,
+      "y": -950
+    },
+    {
+      "height": 340,
+      "id": "e0f0662b5f03070c",
+      "styleAttributes": {
+      },
+      "text": "pinnacle idea for now \n1. indicator : Divergences on \n\n| pinnacle idea fn                        | expectation                                                                                                                    | problem | result |\n| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------- | ------ |\n| indicator : Divergences on vw cvd  <br> | solves the cvd effort problem , and give good signal in divergences <br><br>otherwise : <br>will try divergences on normal cvd |         |        |\n",
+      "type": "text",
+      "width": 520,
+      "x": 1140,
+      "y": -1040
+    },
+    {
+      "height": 60,
+      "id": "983601b10763118f",
+      "styleAttributes": {
+      },
+      "text": "tries : \nvw cvd\n\npinna ",
+      "type": "text",
+      "width": 250,
+      "x": 1140,
+      "y": -420
+    },
+    {
+      "color": "#4a70c9",
+      "height": 60,
+      "id": "07ac621aa1ed78dc",
+      "styleAttributes": {
+      },
+      "text": "links , usable later ",
+      "type": "text",
+      "width": 260,
+      "x": -60,
+      "y": -1610
+    },
+    {
+      "height": 160,
+      "id": "49c186cbc3faece3",
+      "styleAttributes": {
+      },
+      "text": "CVD divergence script , chat , of chat gpt \n\nhttps://chatgpt.com/share/6801d1ad-6cb8-800d-9c4b-65c8c20722b5",
+      "type": "text",
+      "width": 320,
+      "x": 280,
+      "y": -1880
+    },
+    {
+      "height": 60,
+      "id": "7925ffbd7919d0bd",
+      "styleAttributes": {
+      },
+      "text": "wroiking on ",
+      "type": "text",
+      "width": 260,
+      "x": 1390,
+      "y": -1780
+    },
+    {
+      "color": "#a39600",
+      "height": 60,
+      "id": "b90ec7cd699db166",
+      "styleAttributes": {
+      },
+      "text": "Making turning point Indicator ",
+      "type": "text",
+      "width": 260,
+      "x": 2140,
+      "y": -2440
+    },
+    {
+      "height": 140,
+      "id": "7e05f7aa3cfa696f",
+      "styleAttributes": {
+      },
+      "text": "making a turning point indicator \nexpect: maybe it will be useful ahead in for Sl of strategeis : ",
+      "type": "text",
+      "width": 280,
+      "x": 1760,
+      "y": -2280
+    },
+    {
+      "height": 60,
+      "id": "af843a52714e126b",
+      "styleAttributes": {
+      },
+      "text": "Improving the cvd divergence Indiactor itself ",
+      "type": "text",
+      "width": 260,
+      "x": 1880,
+      "y": -1940
+    },
+    {
+      "height": 100,
+      "id": "857eb4867c199f58",
+      "styleAttributes": {
+      },
+      "text": "expectations \nit should be able to enter by itsel , \nand also put the target by itself ",
+      "type": "text",
+      "width": 320,
+      "x": 2380,
+      "y": -2140
+    },
+    {
+      "height": 60,
+      "id": "de5046fabea336ee",
+      "styleAttributes": {
+      },
+      "text": "Steps for this : ",
+      "type": "text",
+      "width": 260,
+      "x": 2780,
+      "y": -2120
+    },
+    {
+      "height": 270,
+      "id": "e4ef921ab7575a90",
+      "styleAttributes": {
+      },
+      "text": "i dont know the stpes \nlets do tadpad now : \n\n1. seeing how this indicator is working \n   (maybe we can find the peak finding mechanism , and modify it for fibonachi extenxions )",
+      "type": "text",
+      "width": 300,
+      "x": 3140,
+      "y": -2410
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "b4aeca736befd59d",
+      "styleAttributes": {
+      },
+      "text": "Posible reliever , for later on in process ",
+      "type": "text",
+      "width": 260,
+      "x": 1660,
+      "y": -2740
+    },
+    {
+      "height": 240,
+      "id": "4315a6595cba53b0",
+      "styleAttributes": {
+      },
+      "text": "can avail the 1 month Gemini 2.5pro for free\n\n(but it also has limited usage possibly , so , use what you have first , then jupm onto it , rahda radha )",
+      "type": "text",
+      "width": 400,
+      "x": 2010,
+      "y": -2980
+    },
+    {
+      "height": 60,
+      "id": "d78242686dd93ac1",
+      "styleAttributes": {
+      },
+      "text": "",
+      "type": "text",
+      "width": 260,
+      "x": 2520,
+      "y": -2800
+    },
+    {
+      "height": 60,
+      "id": "9d845492955f4e96",
+      "styleAttributes": {
+      },
+      "text": "increasing the actual rule power tasks ",
+      "type": "text",
+      "width": 260,
+      "x": 10300,
+      "y": -400
+    },
+    {
+      "height": 200,
+      "id": "f1b715be41b5d5ea",
+      "styleAttributes": {
+      },
+      "text": "Felt hindrance in doing side tasks (as low on hope ryt now, so, (jo socha tha ho jaega ye karne se, wo exactly abhi thk nahi hua h))\nAs I right koe want to do, some tasks, that bit directly improves my rule power  of the startegy ",
+      "type": "text",
+      "width": 400,
+      "x": 10200,
+      "y": -640
+    },
+    {
+      "height": 460,
+      "id": "64eb011c5f4fcd01",
+      "styleAttributes": {
+      },
+      "text": "Like :\n1. Know what thins working in past \n2. Making it easier to detect those \n3. Backtesting them \n4. Making a n-1 layer on the things that worked \n\t1. (this will allow to detect more connection )\n5. Making a indicator, that can detect  these and help me do atleast the partial strategy \n\t1. As I need to rule bound / indicator bound, to reduce the load, so that the remaining part can then work on pure manual rules ",
+      "type": "text",
+      "width": 340,
+      "x": 10220,
+      "y": -280
+    },
+    {
+      "file": "Tips for using AI.md",
+      "height": 60,
+      "id": "a1d9e6331200b605",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 260,
+      "x": 11000,
+      "y": -1640
+    },
+    {
+      "height": 60,
+      "id": "57394a08d6d63f18",
+      "styleAttributes": {
+      },
+      "text": "Currently working on ",
+      "type": "text",
+      "width": 780,
+      "x": 8220,
+      "y": -500
+    },
+    {
+      "height": 65,
+      "id": "be465a8795dbdc80",
+      "styleAttributes": {
+      },
+      "text": "Works : ",
+      "type": "text",
+      "width": 816,
+      "x": 8144,
+      "y": -1705
+    },
+    {
+      "height": 180,
+      "id": "9bcf63c7201379cc",
+      "styleAttributes": {
+      },
+      "text": "Optimizing the base layer a bit \nAs I will have to make multiple different strategies on it ",
+      "type": "text",
+      "width": 260,
+      "x": 8465,
+      "y": 160
+    },
+    {
+      "color": "2",
+      "height": 220,
+      "id": "fec4947b8b15039b",
+      "styleAttributes": {
+      },
+      "text": "Studying it's dd concecutiveness \nAnd dd concecutiveness for a probably run \n\nAnd planking for  a Decent salvation run ",
+      "type": "text",
+      "width": 300,
+      "x": 8480,
+      "y": 1720
+    },
+    {
+      "color": "2",
+      "height": 140,
+      "id": "75881c03745f9a37",
+      "styleAttributes": {
+      },
+      "text": "Then seeif alerts is applicable I. Thta refined indicator, \n(as this a partial part of our strategy )",
+      "type": "text",
+      "width": 300,
+      "x": 8540,
+      "y": 2020
+    },
+    {
+      "height": 60,
+      "id": "d1170e6a55340769",
+      "styleAttributes": {
+      },
+      "text": "Hxhd",
+      "type": "text",
+      "width": 250,
+      "x": 8563,
+      "y": -1220
+    },
+    {
+      "height": 72,
+      "id": "3041248d42e1e4e9",
+      "styleAttributes": {
+      },
+      "text": "Phasic goal setting ",
+      "type": "text",
+      "width": 398,
+      "x": 8162,
+      "y": -2312
+    },
+    {
+      "color": "3",
+      "height": 180,
+      "id": "bb8dba05aa9b2388",
+      "styleAttributes": {
+      },
+      "text": "Can try for st to implement alerts on normal Baselayer, too see if it works and howl \n\nThen I can also implement it in out ultra refined indicator ",
+      "type": "text",
+      "width": 340,
+      "x": 8260,
+      "y": 1440
+    },
+    {
+      "height": 60,
+      "id": "28cc21c38531c022",
+      "styleAttributes": {
+      },
+      "text": "Anny working strategy on Baselayer ",
+      "type": "text",
+      "width": 360,
+      "x": 8220,
+      "y": -120
+    },
+    {
+      "color": "3",
+      "height": 130,
+      "id": "459f287132235e5a",
+      "styleAttributes": {
+        "border": null,
+        "shape": "predefined-process",
+        "textAlign": "center"
+      },
+      "text": "Making some 'working' strategy on [[Baselayer]] '",
+      "type": "text",
+      "width": 340,
+      "x": 8200,
+      "y": -340
+    },
+    {
+      "height": 60,
+      "id": "4c86a8d7d8fcb91d",
+      "styleAttributes": {
+      },
+      "text": "- [x] optimise visuals \n- [ ] bacic alerts working? ",
+      "type": "text",
+      "width": 260,
+      "x": 8160,
+      "y": 340
+    },
+    {
+      "height": 240,
+      "id": "031cebc53276f550",
+      "styleAttributes": {
+      },
+      "text": "- [x] seeing if nulkifeier is essential for baselayer, otherwise if it's just ok to remove the nullifuer \n-(removed the nullifuer )\n\nPerfecting the base layer, \nSuch that it should be easily ready to get integrate grated with any strategy \nBaselayer shiuld be Baselayer inky \n",
+      "type": "text",
+      "width": 360,
+      "x": 8100,
+      "y": 500
+    },
+    {
+      "height": 120,
+      "id": "bd15697a5cc24e44",
+      "styleAttributes": {
+      },
+      "text": "Optimizing the base layer first, it's visuals a bit (too many labels )\n\n\n| Optimise visuals |     |\n| ---------------- | --- |\n| Optimise visuals | Fh  |\n|                  |     |\n",
+      "type": "text",
+      "width": 330,
+      "x": 8135,
+      "y": 160
+    },
+    {
+      "height": 200,
+      "id": "57aa2460e792cf6b",
+      "styleAttributes": {
+      },
+      "text": "Detects\n* Regular Cvd Divergences \n* Hidden Cvd divergences ",
+      "type": "text",
+      "width": 314,
+      "x": 8080,
+      "y": -940
+    },
+    {
+      "height": 60,
+      "id": "e805555b7fd0a0a1",
+      "styleAttributes": {
+      },
+      "text": "Made a decent BASE LAYER ",
+      "type": "text",
+      "width": 250,
+      "x": 8144,
+      "y": -1080
+    },
+    {
+      "height": 60,
+      "id": "82efc747cfeec5db",
+      "styleAttributes": {
+      },
+      "text": "Progress till now ",
+      "type": "text",
+      "width": 250,
+      "x": 8144,
+      "y": -1280
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b34eee0d4dea9165",
+      "styleAttributes": {
+      },
+      "text": "Working startegy, \nRefined strategy on Base layer forming ",
+      "type": "text",
+      "width": 280,
+      "x": 8080,
+      "y": 1980
+    },
+    {
+      "height": 570,
+      "id": "19244595dddd48a4",
+      "styleAttributes": {
+      },
+      "text": "Plan \n1. Making a refining indicator \n2. Then making rules foraafter that refine end is doe (making reliable, hardset rules inky )\n3. Then this refined ing indicator + manual ruleset = our final strat strategy (for salvation run? )\n\n\n4. So partiings of  this project \n\t1. Making Refining indicator successfully first, \n\t\t1. It ahijdl have the minimum alerting system in it \n\t2. After this indicator is completed , Then, looking at the signal instances of this indicators , and forming a 'manual Ruleset ' for entry after the signal fro that strat is alerted \n\t\t1. After forging the entry rules for those signal, then fully look again for teh Target Eulesets too \n\t\t2. Ad after, the target ruleset is completed, the  define a SL for all your entries THE injury n \n",
+      "type": "text",
+      "width": 500,
+      "x": 7340,
+      "y": 1910
+    },
+    {
+      "height": 280,
+      "id": "3bf5a3bd76c85e7d",
+      "styleAttributes": {
+      },
+      "text": "Cons/ COSTS \nNeed only some ammount of optimization for entries and all \n(Same as you would have done in yiur manuka live trading, (it might be bit hard))",
+      "type": "text",
+      "width": 290,
+      "x": 7420,
+      "y": -320
+    },
+    {
+      "height": 280,
+      "id": "ea23be567508ee86",
+      "styleAttributes": {
+      },
+      "text": "\nPros : \nWill be bake to get the pf, with the pinnacle of Rule Following ( rule based trading / algorithmic)",
+      "type": "text",
+      "width": 300,
+      "x": 7120,
+      "y": -320
+    },
+    {
+      "height": 100,
+      "id": "8ca0b25e2fd869c9",
+      "styleAttributes": {
+      },
+      "text": "Main goals with it \n* treating a strategy 'algorithmically *\n",
+      "type": "text",
+      "width": 280,
+      "x": 7270,
+      "y": -440
+    },
+    {
+      "height": 60,
+      "id": "bc674a562572a263",
+      "styleAttributes": {
+      },
+      "text": "vocabulary in Indicator , being used ",
+      "type": "text",
+      "width": 760,
+      "x": 4190,
+      "y": -3300
+    },
+    {
+      "height": 60,
+      "id": "a4549bb24db738c7",
+      "styleAttributes": {
+      },
+      "text": "TimeLimitBars = math.round(0.20 * FormationBars)",
+      "type": "text",
+      "width": 540,
+      "x": 4300,
+      "y": -2980
+    },
+    {
+      "height": 140,
+      "id": "cb0d1d0e3bbc449a",
+      "styleAttributes": {
+      },
+      "text": "- **Anchor pswp**\n- **Signal pswp**\n- **Mid-Divergence pswp**\n- **Divergence pswp Pair** (Collective term for Anchor + Signal)",
+      "type": "text",
+      "width": 540,
+      "x": 4300,
+      "y": -3160
+    },
+    {
+      "height": 60,
+      "id": "6e38f18782c588fb",
+      "styleAttributes": {
+      },
+      "text": "FormationBars = bar_index[Signal] - bar_index[Anchor]",
+      "type": "text",
+      "width": 540,
+      "x": 4300,
+      "y": -2920
+    },
+    {
+      "height": 120,
+      "id": "af1ab48d52e27d21",
+      "styleAttributes": {
+      },
+      "text": "**Core Distance:** The absolute price difference between the `Anchor pswp` and the `Mid-Divergence pswp`. (`D = math.abs(A - M)`). Used as the base unit for calculating the 2.0 and 3.414 extension levels.",
+      "type": "text",
+      "width": 540,
+      "x": 4300,
+      "y": -2780
+    },
+    {
+      "height": 180,
+      "id": "bf82ce3169f29197",
+      "styleAttributes": {
+      },
+      "text": "Phasic goal : \nMaking a Strategy with pf>2.7, so that can apply it for 14 day labraion money making run ",
+      "type": "text",
+      "width": 360,
+      "x": 6560,
+      "y": -2280
+    },
+    {
+      "height": 60,
+      "id": "975343db507095bf",
+      "styleAttributes": {
+      },
+      "text": "Just thinking randomly ",
+      "type": "text",
+      "width": 260,
+      "x": 8940,
+      "y": -4820
+    },
+    {
+      "height": 160,
+      "id": "32638ee39a8d2958",
+      "styleAttributes": {
+      },
+      "text": "- [ ] purchased Premium of TV, \n- \n- now need to identify myself as a completely new user  to them \n\t-How to do that possibly ",
+      "type": "text",
+      "width": 310,
+      "x": 9280,
+      "y": 520
+    },
+    {
+      "height": 230,
+      "id": "f9466f74a64b6d70",
+      "styleAttributes": {
+      },
+      "text": "Afte cautions : \n- [ ] never loging the previous TV account on new device, atleast for 1 month ",
+      "type": "text",
+      "width": 270,
+      "x": 9050,
+      "y": 730
+    },
+    {
+      "height": 145,
+      "id": "10b1192c21711df2",
+      "styleAttributes": {
+      },
+      "text": "Since strategy 'testing' se hi pf>2.7 wagera milega \nWe need TV premium for that '",
+      "type": "text",
+      "width": 340,
+      "x": 9360,
+      "y": 280
+    },
+    {
+      "height": 120,
+      "id": "506bbc0cb07e768f",
+      "styleAttributes": {
+      },
+      "text": "Progress : \n1. [ ] turned Baselayer +0. 5 -->  BaseLayer 1 pure ",
+      "type": "text",
+      "width": 600,
+      "x": 8465,
+      "y": 340
+    },
+    {
+      "height": 60,
+      "id": "6eb68729de66961b",
+      "styleAttributes": {
+      },
+      "text": "Now making a basic strategy that shiuld pf>1 ",
+      "type": "text",
+      "width": 260,
+      "x": 8745,
+      "y": 840
+    },
+    {
+      "height": 100,
+      "id": "c8aef10712c74ae5",
+      "styleAttributes": {
+      },
+      "text": "Optimizing? \n- removing unnecessary compilation loads from the base layer ",
+      "type": "text",
+      "width": 340,
+      "x": 8725,
+      "y": 160
+    },
+    {
+      "height": 170,
+      "id": "61c03742b43f4845",
+      "styleAttributes": {
+      },
+      "text": "One wokomg Stratt formed (non optumised)\n* its not taking the targets properly, too early, and sl too late",
+      "type": "text",
+      "width": 380,
+      "x": 9400,
+      "y": 50
+    },
+    {
+      "height": 60,
+      "id": "1313b4bf9641d7e7",
+      "styleAttributes": {
+      },
+      "text": "Now making a Strategy ",
+      "type": "text",
+      "width": 260,
+      "x": 8690,
+      "y": 480
+    },
+    {
+      "color": "3",
+      "height": 100,
+      "id": "3ea0344e4e2a1b7f",
+      "styleAttributes": {
+      },
+      "text": "- [x] Testing if a super basic strategy 'compiles' \n- [x] (yes a simple strategy is compiling) )",
+      "type": "text",
+      "width": 270,
+      "x": 8610,
+      "y": 640
+    },
+    {
+      "height": 340,
+      "id": "0d6e1dfe51e5bc65",
+      "styleAttributes": {
+      },
+      "text": "- [ ] need to remove the traces of my previous account from my pc , then reset my ip s again \n- [ ] after this using a VPN and a anti detect browser to login through new account \n\n- [ ] so, anty browser for TV and for others using Brave browser \n- [ ] hdhdjhhhhfhehdisejsfhevvr",
+      "type": "text",
+      "width": 300,
+      "x": 9480,
+      "y": 730
+    },
+    {
+      "height": 300,
+      "id": "1b35d2fdbf035c73",
+      "styleAttributes": {
+      },
+      "text": "List of Whta do they fingerprint \n- [ ] browser \n- [ ] os, and name \n- [ ] fonts and languages \n- [ ] (they might have my data saved too )",
+      "type": "text",
+      "width": 280,
+      "x": 9080,
+      "y": 1040
+    }
+  ]
+}

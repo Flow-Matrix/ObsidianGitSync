@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "0d6e1dfe51e5bc65",
+      "styleAttributes": {},
+      "text": "- [ ] need to remove the traces of my previous account from my pc , then reset my ip s again \n- [ ] after this using a VPN and a anti detect browser to login through new account \n\n- [ ] so, anty browser for TV and for others using Brave browser ",
+      "type": "text",
+      "x": 9360,
+      "y": 730,
+      "width": 300,
+      "height": 340
+    },
+    {
+      "id": "f9466f74a64b6d70",
+      "styleAttributes": {},
+      "text": "Afte cautions : \n- [ ] never loging the previous TV account on new device, atleast for 1 month ",
+      "type": "text",
+      "x": 9050,
+      "y": 730,
+      "width": 270,
+      "height": 230
+    },
+    {
+      "id": "1b35d2fdbf035c73",
+      "styleAttributes": {},
+      "text": "List of Whta do they fingerprint \n- [ ] browser \n- [ ] os, and name \n- [ ] fonts and languages \n- [ ] (they might have my data saved too )",
+      "type": "text",
+      "x": 9000,
+      "y": 960,
+      "width": 280,
+      "height": 300
+    }
+  ],
+  "edges": []
+}
